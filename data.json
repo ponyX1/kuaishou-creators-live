@@ -53,7 +53,7 @@
       "contactChannel": "合作代码（渠道未注明）",
       "contactQuote": "🈴 xy13776606046",
       "fitReason": "美食制作与情侣居家生活符合泛生活场景，可策划制作后的清洁或衣物洗护植入；目前未核现成洗护测评作品。",
-      "contentEvidence": "当前主页可见给女友制作脆皮嚼嚼乐、巧克力、冰淇淋等食材的系列，也有订婚、求婚、在家约会与情侣日常作品；公开简介说明为女友做食材。",
+      "contentEvidence": "当前主页可见给女友制作脆皮嚼嚼乐、巧克力、冰淇淋等食材的系列，也有订婚、求婚、在家约会与情侣日常作品；作品标题多次自述给女友做食材。",
       "verifiedAt": "2026-10-17T02:21:42.264Z"
     },
     {
@@ -181,12 +181,55 @@
       "fitReason": "城市出行、街头餐饮可泛匹配衣物油渍处理、餐饮异味与便携洗护选题；具体跨品类合作需沟通确认。合作时主页要求备注来意。",
       "contentEvidence": "本次主页粉丝56.9万。作者作品包括街头烤冷面、大热狗、胡辣汤、东坡肉、梅汁水果等城市特色食品与消费体验。已查看主页首屏，封面有餐食、街边摊和店内互动；按标题与封面初筛，未完整观看作品。",
       "verifiedAt": "2026-10-17T02:40:12.741Z"
+    },
+    {
+      "name": "阿蔡美食教学",
+      "profileUrl": "https://www.kuaishou.com/profile/3xu6imf5nbpvivi",
+      "kuaishouId": "c9999999",
+      "followers": 8695000,
+      "fansDisplay": "869.5万",
+      "category": "美食 / 烹饪教学",
+      "contactValue": "csk5959",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "🔥商•业•卫：csk5959",
+      "fitReason": "持续烹饪教学和厨房生活与做饭后的厨具清洁、去油及衣物去渍场景相邻，属于家清/洗护泛匹配；洗护新拍需单独设计。",
+      "contentEvidence": "当前主页可见从买菜开始的三菜一汤/四菜一汤系列、红烧猪脚、姜母鸭等教程，以及美食博主出差一天等作品；本次核对的是主页文本与作品标题，未声称完整观看视频。",
+      "verifiedAt": "2026-10-17T02:41:22.194Z"
+    },
+    {
+      "name": "西瓜哥",
+      "profileUrl": "https://www.kuaishou.com/profile/3x38kyii4mb72ng",
+      "kuaishouId": "XGGDFDG1",
+      "followers": 2829000,
+      "fansDisplay": "282.9万",
+      "category": "美食 / 居家日常",
+      "contactValue": "DYxiguage",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "🈴DYxiguage（备注清楚品牌才✅",
+      "fitReason": "居家夜宵和美食测评可延伸台面/餐具清洁与衣物去渍，符合泛生活匹配；未核现成洗护产品测评。",
+      "contentEvidence": "公开简介写爱健身、爱美食、爱狗狗；当前作品以居家夜宵、烤肠机、盖饭、食物测评为主，已看主页截图，封面可见室内就餐与小家电食物场景。",
+      "verifiedAt": "2026-10-17T02:42:25.992Z"
+    },
+    {
+      "name": "牛哥不牛",
+      "profileUrl": "https://www.kuaishou.com/profile/3xr9iki6ias8wzg",
+      "kuaishouId": "niuge985",
+      "followers": 7567000,
+      "fansDisplay": "756.7万",
+      "category": "美食 / 旅行生活",
+      "contactValue": "niuge985",
+      "contactChannel": "商务V号（主页标注）",
+      "contactQuote": "商务V:niuge985",
+      "fitReason": "旅行和日常餐饮场景可延伸出行衣物护理、餐后污渍清洁等选题，属于泛生活匹配；未核现成洗护测评案例。",
+      "contentEvidence": "当前作品有山西/锦州/云南等地餐饮探店、爬山和洗浴休闲体验；已查看主页截图，封面有人物出镜、餐饮与出行画面。虽然快手号也为niuge985，简介另明确标“商务V:niuge985”，并非仅从快手号当联系入口。",
+      "verifiedAt": "2026-10-17T02:43:37.225Z"
     }
   ],
-  "checked": 14,
+  "checked": 16,
   "baseline200": 200,
   "baseline": 200,
-  "updatedAt": "2026-10-17T02:41:36.276Z",
+  "kocEligible": 1,
+  "updatedAt": "2026-10-17T03:08:19.231Z",
   "status": "collecting",
-  "statusNote": "继续核验公开商务联系方式，新增结果陆续同步。"
+  "statusNote": "正在补充3千—50万粉丝的KOC候选，优先几千至10万粉丝；报价未询。"
 }
