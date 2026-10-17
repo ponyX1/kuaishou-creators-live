@@ -1817,9 +1817,25 @@
       "fitReason": "当前9.2万粉，位于优先小体量范围；家庭洗衣和厨房清洁主题与本次洗护合作方向较贴近，可进一步沟通日常场景选题。简介明确仅商务合作、不接受闲聊；近期更新、内容制作方式、报价与寄样意愿均待确认。",
       "contentEvidence": "当前本人账号23条作品标题覆盖家庭日常和家常美食，并明确提到洗衣粉、防串染洗衣吸色片、洗碗巾、保鲜袋和厨房用品。仅核当前主页文字及作者一致的作品标题，未截图或观看视频，未核本人出镜、实物操作及产品宣传效果。",
       "verifiedAt": "2026-10-17T17:56:06.425Z"
+    },
+    {
+      "name": "大成-真心陪伴",
+      "profileUrl": "https://www.kuaishou.com/profile/3x8kev5qa78zx7e",
+      "kuaishouId": "4559122338",
+      "followers": 693000,
+      "fansDisplay": "69.3万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "家庭亲情 / 陪伴与情感叙事（低优先泛匹配）",
+      "contactValue": "zq0714m",
+      "contactChannel": "公开合作代码（渠道未注明）",
+      "contactQuote": "合作：zq0714m 欢迎投稿 备注来意",
+      "fitReason": "当前69.3万粉，仅列50—100万备选，不计主KOC目标；家庭陪伴主题具有弱泛生活选题空间，首屏未见直接洗护或家居清洁展示。低优先保留，具体创作方式、产品结合能力、报价与寄样意愿需另行确认。",
+      "contentEvidence": "当前本人账号22条署名作品标题主要围绕家庭、亲情、陪伴、母爱和情感叙事，包括家庭陪伴、节日问候及人物关系故事。仅核主页文字与作品标题，未截图或观看视频，未确认本人出镜、故事真实性或实物操作。",
+      "verifiedAt": "2026-10-17T18:36:24.734Z"
     }
   ],
-  "checked": 158,
+  "checked": 161,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 65,
@@ -1829,10 +1845,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 6,
+  "backupEligible": 7,
   "contactPurposePending": 3,
   "targetKoc": 200,
-  "updatedAt": "2026-10-17T17:57:21.295Z",
+  "updatedAt": "2026-10-17T18:38:29.394Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
