@@ -1337,17 +1337,33 @@
       "fitReason": "情侣日常互动可泛匹配洗护用品的生活对话或使用场景，当前呈现以聊天互动为主。未核到洗护测评或清洁演示，是否能按要求寄样拍摄、出镜安排、选题和费用需沟通。",
       "contentEvidence": "当前主页13.3万粉，20条可见本人作品，简介自述异地恋情侣。标题涉及情侣聊天、点外卖、做饭和养猫等日常，首屏封面多为室内人物视频通话画面。已查看当前标题与封面，未完整观看作品，也未据做饭标题认定实际烹饪操作。",
       "verifiedAt": "2026-10-17T09:55:19.988Z"
+    },
+    {
+      "name": "集美",
+      "profileUrl": "https://www.kuaishou.com/profile/3xmgbr48zcxdies",
+      "kuaishouId": "2077694207",
+      "followers": 90000,
+      "fansDisplay": "9万",
+      "selectionTier": "koc",
+      "contactPurposePending": false,
+      "category": "居家生活剧情 / 日常互动",
+      "contactValue": "hezuo8008",
+      "contactChannel": "商务合作代码（渠道未注明）",
+      "contactQuote": "商务合作+hezuo8008",
+      "fitReason": "当前9万粉，日常互动及居家生活剧情可作为生活用品的泛匹配候选，体量处于优先范围。当前未见洗护专门内容，需先确认能否自然加入使用场景；报价、接样意愿及具体脚本待沟通。",
+      "contentEvidence": "当前本人账号作品文案含奶茶互动、蹭网及现代生活小剧场；已查看主页截图，连续封面呈现室内走廊、沙发、桌前等生活环境中的真人对话和表演。仅核到作品封面及文案，未完整观看剧情或核实出镜者身份。",
+      "verifiedAt": "2026-10-17T09:57:26.898Z"
     }
   ],
-  "checked": 100,
+  "checked": 101,
   "baseline200": 200,
   "baseline": 200,
-  "kocEligible": 49,
+  "kocEligible": 50,
   "minimumKocFollowers": 1000,
   "backupEligible": 4,
   "contactPurposePending": 1,
   "targetKoc": 201,
-  "updatedAt": "2026-10-17T09:57:43.904Z",
+  "updatedAt": "2026-10-17T09:59:32.231Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，累计目标200+；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
