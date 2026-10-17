@@ -164,6 +164,21 @@
       "contentEvidence": "2026-10-16保存的主页简介自述两个儿子的父亲，作品标题有男士护理穿搭、全职爸爸、父子互动和夫妻生活。此次复核旧文本与标题，未重访或完整观看。",
       "verifiedAt": "2026-10-15T16:39:56.567Z",
       "origin": "baseline200"
+    },
+    {
+      "name": "阿巴情侣的做饭日记",
+      "profileUrl": "https://www.kuaishou.com/profile/3x6i7my72b9ud3s",
+      "kuaishouId": "ai20240318",
+      "followers": 102000,
+      "fansDisplay": "10.2万",
+      "category": "美食 / 情侣居家",
+      "contactValue": "2817436596@qq.com",
+      "contactChannel": "公开联系邮箱（简介标注）",
+      "contactQuote": "📮2817436596@qq.com",
+      "fitReason": "情侣做饭与厨房日常可延伸厨具清洁、去油和衣物去渍场景，符合泛生活方向；报价与接样意愿尚未询问。",
+      "contentEvidence": "2026-10-14已保存的主页记录中，本人作品有辣白菜嫩豆腐汤、青椒肉丝面、家常菜和上班带饭等标题；公开简介主动展示联系邮箱。本条复用历史证据，未于本次重新访问主页。",
+      "verifiedAt": "2026-10-14T06:09:11.865Z",
+      "origin": "baseline200"
     }
   ],
   "creators": [
@@ -496,15 +511,30 @@
       "fitReason": "当前24.6万粉，在3千—50万主范围。本人出镜的生活好物及实物体验内容可泛匹配洗护种草；优先级低于10万以内账号。寄样＋小额服务费接受情况及报价均未沟通。",
       "contentEvidence": "当前主页作品含薇诺娜春游体验官、拆盲盒、自制橘灯、橘子皮香薰、洗发露起泡胶等生活测评与手工标题；实际查看首屏截图，连续封面有真人出镜及实物展示，置顶封面有护肤产品。仅按主页标题与封面初筛，未完整观看视频。",
       "verifiedAt": "2026-10-17T04:31:42.124Z"
+    },
+    {
+      "name": "钱老板✨",
+      "profileUrl": "https://www.kuaishou.com/profile/3xczii8xq3sgzq6",
+      "kuaishouId": "qianjin0529",
+      "followers": 142000,
+      "fansDisplay": "14.2万",
+      "selectionTier": "koc",
+      "category": "美妆教程 / 个人护理 / 生活日常",
+      "contactValue": "luobo20020819",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "🈴：(备注来意）luobo20020819",
+      "fitReason": "当前14.2万粉，在3千—50万主范围；美妆、香水使用及头发造型等内容可泛匹配个人洗护体验。10万以上作为次优先候选，未询价或确认寄样＋小额服务费意愿；最新发布日期待沟通前复核。",
+      "contentEvidence": "当前主页连续作品含仿妆与妆容教程、卧蚕/修容教程、正确喷香水、精简护肤、懒人卷发及阿勒泰生活旅行等标题；实际查看首屏截图，真人化妆造型及户外生活封面正常。仅按当前主页标题与封面初筛，未完整观看视频。",
+      "verifiedAt": "2026-10-17T04:37:03.011Z"
     }
   ],
-  "checked": 36,
+  "checked": 37,
   "baseline200": 200,
   "baseline": 200,
-  "kocEligible": 17,
+  "kocEligible": 19,
   "backupEligible": 2,
   "targetKoc": 201,
-  "updatedAt": "2026-10-17T04:36:05.921Z",
+  "updatedAt": "2026-10-17T04:40:04.950Z",
   "status": "collecting",
   "statusNote": "持续补充有公开商务联系方式的KOC，累计目标200+；优先几千至10万粉丝，50万—100万单列备选。合作方向为寄样＋小额服务费，实际报价待询。"
 }
