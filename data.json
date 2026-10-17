@@ -1353,17 +1353,33 @@
       "fitReason": "当前9万粉，日常互动及居家生活剧情可作为生活用品的泛匹配候选，体量处于优先范围。当前未见洗护专门内容，需先确认能否自然加入使用场景；报价、接样意愿及具体脚本待沟通。",
       "contentEvidence": "当前本人账号作品文案含奶茶互动、蹭网及现代生活小剧场；已查看主页截图，连续封面呈现室内走廊、沙发、桌前等生活环境中的真人对话和表演。仅核到作品封面及文案，未完整观看剧情或核实出镜者身份。",
       "verifiedAt": "2026-10-17T09:57:26.898Z"
+    },
+    {
+      "name": "长江江江江江江",
+      "profileUrl": "https://www.kuaishou.com/profile/3x7xatdhbbu78ki",
+      "kuaishouId": "CJ5856556",
+      "followers": 216000,
+      "fansDisplay": "21.6万",
+      "selectionTier": "koc",
+      "contactPurposePending": false,
+      "category": "居家生活 / 备餐收纳",
+      "contactValue": "hhh0808765",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "🈴️：hhh0808765",
+      "fitReason": "居家备餐、采购和收纳场景与日用洗护及厨房清洁有较自然的内容衔接，符合生活泛匹配。当前未核到洗护产品实测、去污效果或清洁操作，需要进一步沟通具体选题、寄样拍摄与服务费。",
+      "contentEvidence": "当前主页21.6万粉，20条可见本人作品。标题包含屯满冰箱、冰箱收纳、在家做甜品、租房独居与家庭日常；已查看首屏，封面可见超市采购、室内生活和厨房切配食材画面。按当前标题与封面初筛，未完整观看作品。",
+      "verifiedAt": "2026-10-17T10:02:31.598Z"
     }
   ],
-  "checked": 101,
+  "checked": 102,
   "baseline200": 200,
   "baseline": 200,
-  "kocEligible": 50,
+  "kocEligible": 51,
   "minimumKocFollowers": 1000,
   "backupEligible": 4,
   "contactPurposePending": 1,
   "targetKoc": 201,
-  "updatedAt": "2026-10-17T09:59:32.231Z",
+  "updatedAt": "2026-10-17T10:05:06.663Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，累计目标200+；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
