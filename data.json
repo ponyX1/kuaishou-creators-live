@@ -396,7 +396,8 @@
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 12,
-  "updatedAt": "2026-10-17T03:37:42.596Z",
-  "status": "complete",
-  "statusNote": "本轮核验结果已同步。按寄样＋小额服务费方向筛选，实际报价及接样意愿待沟通。"
+  "targetKoc": 201,
+  "updatedAt": "2026-10-17T03:42:59.270Z",
+  "status": "collecting",
+  "statusNote": "持续补充有公开商务联系方式的KOC，累计目标200+；优先几千至10万粉丝，合作方向为寄样＋小额服务费，实际报价待询。"
 }
