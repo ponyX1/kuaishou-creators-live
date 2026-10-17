@@ -773,17 +773,33 @@
       "fitReason": "擅长实物开箱和桌面场景展示，可尝试洗护产品包装、使用步骤或生活好物类内容，属于泛匹配；当前首屏未见实际洗护测评。具体选题接受度、寄样意愿及服务费仍待沟通。",
       "contentEvidence": "当前主页20.9万粉，20条可见作品作者均为红点点，含书包和水杯开箱、桌面布置收纳、购物与生活碎片。已查看主页首屏，封面为手持手机、书包和水杯等实物开箱画面；按作品标题与封面初筛，未完整观看。",
       "verifiedAt": "2026-10-17T07:00:31.933Z"
+    },
+    {
+      "name": "疯疯童学",
+      "profileUrl": "https://www.kuaishou.com/profile/3xsthst9qht87kg",
+      "kuaishouId": "Fengfengtongxue",
+      "followers": 298000,
+      "fansDisplay": "29.8万",
+      "selectionTier": "koc",
+      "contactPurposePending": false,
+      "category": "生活吐槽 / 搞笑口播",
+      "contactValue": "13031188440",
+      "contactChannel": "企业微信（简介工作联系企业VX）",
+      "contactQuote": "工作联系企业VX：13031188440，注明疯疯合作。",
+      "fitReason": "当前29.8万粉，在1000—50万主范围；居家生活、健身及日常吐槽可作为洗护用品场景植入候选，需沟通脚本，未见明确洗护测评。10万以上次优先；首屏封面含2020日期字样，当前更新频率未核实，联系前应确认活跃。寄样＋小额服务费意愿和报价未沟通。",
+      "contentEvidence": "当前连续作品有逛超市、家庭打碎盘子、健身、间歇性精致、旅行和社交等生活话题。已查看首屏截图，连续真人在室内口播和情境表演；仅按标题和封面初筛，未完整观看视频。",
+      "verifiedAt": "2026-10-17T07:17:16.535Z"
     }
   ],
-  "checked": 67,
+  "checked": 68,
   "baseline200": 200,
   "baseline": 200,
-  "kocEligible": 32,
+  "kocEligible": 33,
   "minimumKocFollowers": 1000,
   "backupEligible": 3,
   "contactPurposePending": 1,
   "targetKoc": 201,
-  "updatedAt": "2026-10-17T07:04:05.355Z",
+  "updatedAt": "2026-10-17T07:18:49.217Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，累计目标200+；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
