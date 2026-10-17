@@ -693,17 +693,33 @@
       "fitReason": "当前11.8万粉，在1000—50万主范围；美妆护理、沐浴和租房日常直接或泛匹配洗护体验，10万以上作为次优先候选。仅记录明确商务合作V，不引用聊天联系项或第三方旧号码；报价和寄样＋小额服务费意愿均未沟通。",
       "contentEvidence": "当前作品含租房避雷/床垫、学生省钱、面膜、旅行收纳、平价好物和“累了就好好洗个香香澡吧”等标题。已查看首屏截图，连续真人口播与面膜护理、生活实物展示封面；仅按标题和封面初筛，未完整观看视频。",
       "verifiedAt": "2026-10-17T05:38:01.048Z"
+    },
+    {
+      "name": "方脸姐妹",
+      "profileUrl": "https://www.kuaishou.com/profile/3xg3ejvyze3ys9s",
+      "kuaishouId": "2183106343",
+      "followers": 527000,
+      "fansDisplay": "52.7万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "双人美妆 / 洗护测评 / 平价好物",
+      "contactValue": "lxysw1004",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "合作联：lxysw1004",
+      "fitReason": "当前52.7万粉，属于50万—100万备选，单列且不计主KOC201目标；洗发水、洁面及清洁好物内容直接匹配洗护方向。简介合作代码明确，渠道未注明，实际报价和寄样＋小额服务费意愿尚未沟通。",
+      "contentEvidence": "当前连续作品含可麦洗发水实测、C咖洁面慕斯、清洁好物、化妆技巧及超市平价好物。已查看首屏截图，双人真人出镜并展示洗发水等实物，封面明确“方脸再测 可麦洗发水”。仅按标题和封面初筛，未完整观看视频。",
+      "verifiedAt": "2026-10-17T05:44:41.648Z"
     }
   ],
-  "checked": 53,
+  "checked": 55,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 28,
   "minimumKocFollowers": 1000,
-  "backupEligible": 2,
+  "backupEligible": 3,
   "contactPurposePending": 1,
   "targetKoc": 201,
-  "updatedAt": "2026-10-17T05:41:08.941Z",
+  "updatedAt": "2026-10-17T05:48:21.815Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，累计目标200+；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
