@@ -2217,9 +2217,25 @@
       "fitReason": "当前16.4万粉，属于主KOC范围，可作日常生活与穿搭方向的泛日用品候选。首屏偏生活叙事，洗护讲解和实物演示能力仍待确认；品牌选题、呈现方式、报价与接样意愿需沟通。简介要求备注来意并指引上聚星。",
       "contentEvidence": "当前快手号laifu110，23条作品均署名福妈的朋友圈（3置顶、20非置顶）。标题中有时尚穿搭、日常碎片、记录我的生活日常等明确主题；例如“姊妹们，你们多久可以穿上以前的裤子呢？”并带时尚穿搭标签。仅核主页文字与作品标题，未截图或观看视频，不确认本人出镜、实际穿搭展示或产品操作。",
       "verifiedAt": "2026-10-18T20:34:58.411Z"
+    },
+    {
+      "name": "晨哥nice",
+      "profileUrl": "https://www.kuaishou.com/profile/3xqifrapz6msy9a",
+      "kuaishouId": "2329369117",
+      "followers": 772000,
+      "fansDisplay": "77.2万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "美妆 / 护肤与发型分享",
+      "contactValue": "swzy1906",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "商务swzy1906",
+      "fitReason": "当前标题中的洗面奶、护肤和彩妆体验方向可匹配洗护产品内容；77.2万超过50万主范围，按50万至100万备选单列，不抵新增200目标。商务代码渠道未注明，报价、当前接样意愿及具体选题仍需后续确认；不据昵称推断性别或出镜身份。",
+      "contentEvidence": "当前主页显示77.2万粉，已完整读取20条晨哥nice署名作品标题，其中有“我宣布护肤品进入大玩具时代！”并带洗面奶标签、迷你彩妆测评、平价彩妆、发型测评，以及服饰开箱和日常挑战。仅依据本次主页文字与标题初筛，未看封面或完整视频，未验证标题中的产品功效。",
+      "verifiedAt": "2026-10-18T21:17:40.875Z"
     }
   ],
-  "checked": 237,
+  "checked": 238,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 86,
@@ -2229,10 +2245,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 10,
+  "backupEligible": 11,
   "contactPurposePending": 4,
   "targetKoc": 200,
-  "updatedAt": "2026-10-18T20:37:02.416Z",
+  "updatedAt": "2026-10-18T21:26:32.521Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
