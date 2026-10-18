@@ -1977,9 +1977,25 @@
       "fitReason": "当前84.4万粉，超过主KOC50万上限，仅列50—100万低优先备选，不抵新增200目标。内容以学习和教师日常为主，与洗护关联较弱，日用品选题及可用场景需沟通。简介要求备注品牌，否则不通过；报价、寄样意愿与具体合作安排未确认。",
       "contentEvidence": "当前本人账号20条署名作品标题以语文教学、批改试卷、发试卷和教师日常互动为主，另有教辅与童书推荐标题。仅核当前主页文字和作品标题，未截图或观看视频，未确认本人出镜或产品实物操作；标题不证明商单或教学效果。",
       "verifiedAt": "2026-10-18T08:56:14.241Z"
+    },
+    {
+      "name": "小玲爱吃喝",
+      "profileUrl": "https://www.kuaishou.com/profile/3x68rcuzi793cj4",
+      "kuaishouId": "1428094136",
+      "followers": 773000,
+      "fansDisplay": "77.3万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "食品主题内容（仅标题标签，弱泛匹配备选）",
+      "contactValue": "YaMoZs9090",
+      "contactChannel": "公开合作代码（渠道未注明）",
+      "contactQuote": "♥️合作YaMoZs9090",
+      "fitReason": "当前77.3万粉，超过主KOC50万上限，仅列50—100万低优先备选，不抵新增200目标。食品方向可作泛生活选题候选，但洗护关联弱，具体制作能力、产品展示场景和原创性未核；寄样意愿、服务费及合作方式均待确认。",
+      "contentEvidence": "当前快手号1428094136，20条作品均署名小玲爱吃喝。标题以“#老铁解馋大会”“#治愈美食”“#趣味吃法挑战”等食品主题标签为主，标签高度重复；仅可确认食品主题文字方向，无法由标题确认具体食物、实物操作或本人出镜。未截图或观看视频。",
+      "verifiedAt": "2026-10-18T10:10:35.001Z"
     }
   ],
-  "checked": 195,
+  "checked": 197,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 73,
@@ -1989,10 +2005,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 8,
+  "backupEligible": 9,
   "contactPurposePending": 3,
   "targetKoc": 200,
-  "updatedAt": "2026-10-18T09:50:49.705Z",
+  "updatedAt": "2026-10-18T10:15:51.940Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
