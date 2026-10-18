@@ -1961,9 +1961,25 @@
       "fitReason": "10万以内且有明确商务入口的生活记录账号，可作为旅途日用品选题的弱泛匹配候选，建议低优先沟通。当前多数标题为船上生活场景标签，水上超市题材也只由标题支持；未见洗护或清洁实测证据，具体日用品使用场景、独立产品选题及寄样意愿仍需确认，不推定已经会做洗护体验或有实际产品效果。",
       "contentEvidence": "当前主页显示4.7万粉丝，取得23条本账号署名作品标题；以船上日常、航海、旅途记录和记录自己为主，其中一条置顶标题明确提到水上超市船。仅读取当前简介、粉丝及标题，未看封面、具体操作或完整视频，不认定实际职业或性别。",
       "verifiedAt": "2026-10-18T08:36:18.605Z"
+    },
+    {
+      "name": "「李老师」",
+      "profileUrl": "https://www.kuaishou.com/profile/3xjimx7nmimhm8e",
+      "kuaishouId": "LL668823",
+      "followers": 844000,
+      "fansDisplay": "84.4万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "教师日常 / 学习内容与教辅童书（弱泛匹配备选）",
+      "contactValue": "snys20082021",
+      "contactChannel": "主页公开合作V（原文标注，渠道未核）",
+      "contactQuote": "合作V❤️: snys20082021（请备注品牌，否则不通过）",
+      "fitReason": "当前84.4万粉，超过主KOC50万上限，仅列50—100万低优先备选，不抵新增200目标。内容以学习和教师日常为主，与洗护关联较弱，日用品选题及可用场景需沟通。简介要求备注品牌，否则不通过；报价、寄样意愿与具体合作安排未确认。",
+      "contentEvidence": "当前本人账号20条署名作品标题以语文教学、批改试卷、发试卷和教师日常互动为主，另有教辅与童书推荐标题。仅核当前主页文字和作品标题，未截图或观看视频，未确认本人出镜或产品实物操作；标题不证明商单或教学效果。",
+      "verifiedAt": "2026-10-18T08:56:14.241Z"
     }
   ],
-  "checked": 190,
+  "checked": 191,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 73,
@@ -1973,10 +1989,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 7,
+  "backupEligible": 8,
   "contactPurposePending": 3,
   "targetKoc": 200,
-  "updatedAt": "2026-10-18T08:38:10.486Z",
+  "updatedAt": "2026-10-18T08:58:13.758Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
