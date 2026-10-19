@@ -2510,9 +2510,25 @@
       "fitReason": "美妆、假发与穿搭分享可供日用品寄样合作初步筛选。当前粉丝98.7万，列入50万—100万备选，接样意愿、内容方案和费用待确认。",
       "contentEvidence": "当前署名作品含‘这人话咋那么多 #妆教’、‘两顶假发的较量 选不出来 #假发 #变装 #反差’、‘画完妆出门跟走秀一样 #换头术 #妆教 #好物分享’，以及穿搭分享、旅行和生活选题。",
       "verifiedAt": "2026-10-19T03:00:04.579Z"
+    },
+    {
+      "name": "大斌的美食日记",
+      "profileUrl": "https://www.kuaishou.com/profile/3xtksipkicytt2q",
+      "kuaishouId": "619684756",
+      "followers": 705000,
+      "fansDisplay": "70.5万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "美食与厨房生活",
+      "contactValue": "WSLDB168",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "合作WSLDB168",
+      "fitReason": "标题持续围绕美食与日常餐食，并含生活小家电标签，可作厨房生活及家庭日用品内容的泛匹配备选；目前尚无洗护或家清实测证据，具体选题、接样与报价待沟通。当前70.5万粉，超过主50万上限，仅属50—100万备选，不抵本轮新增200主目标。公开合作代码渠道未注明。剔除3条置顶后20条作品展示赞410—9594，首10中位数732.5；发布日期未显示，不能据节日、季节标签判断近期活跃、播放量或稳定广告互动。",
+      "contentEvidence": "当前23条作品卡均署名大斌的美食日记，含3条置顶；标题围绕家常餐食、夜宵、海鲜、拌饭等，其中一条置顶有生活小家电标签。仅按当前文字初筛，未看图或播放，不确认实际饮食、厨房操作、产品使用、品牌合作、AI工具使用或人物身份关系，也不把标题主题当功效证明。",
+      "verifiedAt": "2026-10-19T03:46:57.011Z"
     }
   ],
-  "checked": 273,
+  "checked": 275,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 100,
@@ -2522,10 +2538,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 14,
+  "backupEligible": 15,
   "contactPurposePending": 4,
   "targetKoc": 200,
-  "updatedAt": "2026-10-19T03:02:26.116Z",
+  "updatedAt": "2026-10-19T04:03:11.615Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
