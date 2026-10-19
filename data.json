@@ -2494,9 +2494,25 @@
       "fitReason": "当前5.8万粉，符合主KOC及优先小体量范围。生活vlog、饮食及外出消费主题可作为日用品泛匹配候选，洗护选题和具体呈现方式需合作前确认。首10条非置顶卡展示点赞762—6325、中位1795，日期未知，不推断播放、近期活跃或成交；报价与寄样意愿未沟通。",
       "contentEvidence": "当前快手号1423448985，20条作品卡均署名小卢同学🍑（1置顶、19非置顶）。标题以生活vlog、美食、赶集与夜市日常为主，包含麻辣拌、麻辣烫、鸭血粉丝、鸡翅煲、土豆肉包、鸡蛋灌饼及消费平台等主题。仅核当前主页全文与全部署名标题，未截图或播放视频，不确认实际制作、食用、出镜或产品操作。",
       "verifiedAt": "2026-10-19T02:42:53.539Z"
+    },
+    {
+      "name": "杨梦凡.−",
+      "profileUrl": "https://www.kuaishou.com/profile/3xiijhks8ng5gk9",
+      "kuaishouId": "yyn19686868",
+      "followers": 987000,
+      "fansDisplay": "98.7万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "美妆 / 穿搭 / 生活日常",
+      "contactValue": "linlinlin621626",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "🈴：linlinlin621626",
+      "fitReason": "美妆、假发与穿搭分享可供日用品寄样合作初步筛选。当前粉丝98.7万，列入50万—100万备选，接样意愿、内容方案和费用待确认。",
+      "contentEvidence": "当前署名作品含‘这人话咋那么多 #妆教’、‘两顶假发的较量 选不出来 #假发 #变装 #反差’、‘画完妆出门跟走秀一样 #换头术 #妆教 #好物分享’，以及穿搭分享、旅行和生活选题。",
+      "verifiedAt": "2026-10-19T03:00:04.579Z"
     }
   ],
-  "checked": 269,
+  "checked": 273,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 100,
@@ -2506,10 +2522,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 13,
+  "backupEligible": 14,
   "contactPurposePending": 4,
   "targetKoc": 200,
-  "updatedAt": "2026-10-19T02:53:36.977Z",
+  "updatedAt": "2026-10-19T03:02:26.116Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
