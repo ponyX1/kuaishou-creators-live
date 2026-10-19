@@ -2558,9 +2558,25 @@
       "fitReason": "当前75.8万粉，超过主KOC50万上限，仅列50—100万备选，不抵新增200主目标。美食、旅行与日常消费主题可作为日用品泛匹配备选，具体洗护选题需合作前确认。首10条非置顶展示点赞8—328、中位86.5，日期未知，不推播放、近期活跃或成交；报价与寄样意愿未沟通。",
       "contentEvidence": "当前快手号Misskua020，23条作品卡均署名Martin在中国（3置顶、20非置顶）。全部标题以美食、城市旅行、当地消费与科技体验主题为主，涉及火锅、早茶、烤肉、咖啡、夜宵、城市景点及机器人等内容。仅核当前主页全文和全部署名标题，未截图或播放视频，不确认实际出镜、消费、国籍、居住或制作操作。",
       "verifiedAt": "2026-10-19T05:08:57.970Z"
+    },
+    {
+      "name": "城南一家子",
+      "profileUrl": "https://www.kuaishou.com/profile/3xx8qeiew87syae",
+      "kuaishouId": "4046325427",
+      "followers": 584000,
+      "fansDisplay": "58.4万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "怀旧剧情 / 小卖部与日常消费主题",
+      "contactValue": "HG15273170112",
+      "contactChannel": "主页公开商务代码（未标渠道）",
+      "contactQuote": "商务咨询 HG15273170112",
+      "fitReason": "当前58.4万粉，超过主KOC50万上限，仅列50—100万备选，不抵新增200主目标。怀旧剧情及日常消费主题可作为日用品泛匹配备选，洗护选题与具体呈现需合作前确认。首10条非置顶展示点赞106—6004、中位301，日期未知，不推播放、近期活跃或成交；报价与寄样意愿未沟通。",
+      "contentEvidence": "当前快手号4046325427，22条作品卡均署名城南一家子（2置顶、20非置顶）。全部标题围绕怀旧剧情、小卖部情节、购物与外卖等消费和日常关系主题，多条明确标注剧情演绎。仅核当前主页全文与全部署名标题，未截图或播放视频，不确认真实经历、家庭关系、实际店铺经营、食用或产品操作。",
+      "verifiedAt": "2026-10-19T05:19:57.064Z"
     }
   ],
-  "checked": 281,
+  "checked": 283,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 101,
@@ -2570,10 +2586,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 16,
+  "backupEligible": 17,
   "contactPurposePending": 4,
   "targetKoc": 200,
-  "updatedAt": "2026-10-19T05:11:37.153Z",
+  "updatedAt": "2026-10-19T05:21:46.801Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
