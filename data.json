@@ -2960,6 +2960,22 @@
       "verifiedAt": "2026-10-20T06:15:21.184Z"
     },
     {
+      "name": "Mamba篮球",
+      "profileUrl": "https://www.kuaishou.com/profile/3x587j2wqama5ui",
+      "kuaishouId": "Mamba23824",
+      "followers": 233000,
+      "fansDisplay": "23.3万",
+      "selectionTier": "koc",
+      "contactPurposePending": false,
+      "category": "篮球运动兴趣/赛事话题",
+      "contactValue": "xuedoit8426",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "合作学习🛰️ xuedoit8426",
+      "fitReason": "当前20条本人署名标题均为篮球技术、球员与赛事回顾，具明确运动兴趣主题，可作低优先泛生活匹配；具体合作选题及接受意愿待确认。",
+      "contentEvidence": "已完整阅读保存原raw全部20条本人署名标题；0/5/8/11讨论罚球、胯下节奏、攻防与进攻细节，其余为球员及赛事回顾。仅文字主题，不认证实际运动、原作版权、赛事叙述或受众性别。",
+      "verifiedAt": "2026-10-20T06:23:59.196Z"
+    },
+    {
       "name": "胖虎玩数码（冲30w）",
       "profileUrl": "https://www.kuaishou.com/profile/3x882h9n4nhy6eq",
       "kuaishouId": "1289926654",
@@ -3200,20 +3216,20 @@
       "verifiedAt": "2026-10-20T11:41:25.074Z"
     }
   ],
-  "checked": 395,
+  "checked": 396,
   "baseline200": 200,
   "baseline": 200,
-  "kocEligible": 132,
-  "newKocEligible": 132,
+  "kocEligible": 133,
+  "newKocEligible": 133,
   "historicalKocEligible": 12,
-  "allKocEligible": 144,
+  "allKocEligible": 145,
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
   "backupEligible": 25,
   "contactPurposePending": 6,
   "targetKoc": 200,
-  "updatedAt": "2026-10-20T11:43:46.280Z",
+  "updatedAt": "2026-10-20T12:01:38.501Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
