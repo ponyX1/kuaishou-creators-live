@@ -3152,7 +3152,7 @@
       "verifiedAt": "2026-10-20T09:28:21.817Z"
     }
   ],
-  "checked": 389,
+  "checked": 390,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 131,
@@ -3165,7 +3165,7 @@
   "backupEligible": 23,
   "contactPurposePending": 5,
   "targetKoc": 200,
-  "updatedAt": "2026-10-20T10:03:59.615Z",
-  "status": "collecting",
-  "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
+  "updatedAt": "2026-10-20T10:13:16.966Z",
+  "status": "paused",
+  "statusNote": "调研已暂停，已核结果保留。"
 }
