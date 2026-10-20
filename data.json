@@ -2814,9 +2814,25 @@
       "fitReason": "泛生活与服饰、包类呈现，适合先评估日常物件合作；洗护商品对应较弱，列为低优先。当前仅展示1条作品，赞2万，日期未知，不能据此判断稳定互动或播放量。具体品牌调性、接样意愿、报价和履约待确认。",
       "contentEvidence": "当前快手号y-x-1618，1条当前正常作品署名一颗星星，页面显示没有更多了。全文为回忆类日常文案；一次现页截图看到作品封面有户外路面、背包与服饰呈现。只按文字/封面主题判断，未播放，不从年龄文案、头像、性别图标、@他号或画中人认定当前年龄、性别、本人出镜、真实关系、学校所在地、原创或实际生活经历，不复制无关个人细节。",
       "verifiedAt": "2026-10-20T01:32:55.295Z"
+    },
+    {
+      "name": "富贵动画",
+      "profileUrl": "https://www.kuaishou.com/profile/3xvtpwzfb2pc9i2",
+      "kuaishouId": "3661651722",
+      "followers": 611000,
+      "fansDisplay": "61.1万",
+      "selectionTier": "backup",
+      "contactPurposePending": false,
+      "category": "动画剧情 / 食品生活话题",
+      "contactValue": "ABAC1234ABA",
+      "contactChannel": "合作代码（渠道未注明）",
+      "contactQuote": "合作备注来意V:ABAC1234ABA",
+      "fitReason": "年代动画剧情含家庭、带鱼回家、批发罐头等食品生活话题，可作低优先备选；洗护直接匹配较弱，品牌融入方式待确认。当前61.1万粉，仅列50万—100万备选，不抵新增主目标。20条作品展示赞244—1017，首10条中位401.5，日期未知，不代表播放量或近期稳定表现。接样意愿、制作形式及报价未沟通。",
+      "contentEvidence": "当前20条本人署名标题为年代动画连续剧情，含带鱼回家、抓鱼、批发罐头与家庭生活情境；已完整逐条读标题，并实际看一次后台主页截图，首屏可见动画连载封面。",
+      "verifiedAt": "2026-10-20T02:25:01.518Z"
     }
   ],
-  "checked": 335,
+  "checked": 337,
   "baseline200": 200,
   "baseline": 200,
   "kocEligible": 112,
@@ -2826,10 +2842,10 @@
   "targetMetric": "new_unique_public_contact_koc_1000_500000",
   "historicalCountsTowardTarget": false,
   "minimumKocFollowers": 1000,
-  "backupEligible": 21,
+  "backupEligible": 22,
   "contactPurposePending": 4,
   "targetKoc": 200,
-  "updatedAt": "2026-10-20T01:40:20.240Z",
+  "updatedAt": "2026-10-20T02:28:03.240Z",
   "status": "collecting",
   "statusNote": "持续补充有公开联系方式的KOC，本轮新增目标200位，历史记录不抵扣；1000粉起筛，优先10万以内，50万—100万单列备选。合作方向为寄样＋小额服务费；公开微信用途未明会单独标注，实际报价待询。"
 }
