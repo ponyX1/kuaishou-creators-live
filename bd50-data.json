@@ -24,7 +24,7 @@
   ],
   "qualified": 1,
   "remaining": 49,
-  "status": "paused",
-  "statusNote": "Chrome连接中断，等待恢复后继续三路快筛；当前已上线1/50位，未复用旧名单。",
-  "updatedAt": "2026-10-22T10:17:29.684Z"
+  "status": "collecting",
+  "statusNote": "三路快筛进行中：全新50位，10万—20万粉，有公开联系方式；核对粉丝、联系、内容方向和去重后逐批上线。",
+  "updatedAt": "2026-10-22T10:56:16.282Z"
 }
