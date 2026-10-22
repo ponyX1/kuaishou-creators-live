@@ -1,8 +1,8 @@
 {
   "campaignId": "bd50_100k_200k_20261022",
   "target": 50,
-  "minimumFollowers": 100000,
-  "maximumFollowers": 200000,
+  "minimumFollowers": 80000,
+  "maximumFollowers": 250000,
   "reusePrevious": false,
   "creators": [
     {
@@ -25,6 +25,6 @@
   "qualified": 1,
   "remaining": 49,
   "status": "collecting",
-  "statusNote": "三路独立快筛进行中：全新50位，10万—20万粉，有公开联系方式；核粉、联系、内容方向和去重后逐批上线。",
-  "updatedAt": "2026-10-22T15:02:06.624Z"
+  "statusNote": "三路快筛进行中：全新50位，优先10万—20万粉，弹性约8万—25万；有公开联系方式，内容方向宽松评估。",
+  "updatedAt": "2026-10-22T15:16:37.015Z"
 }
