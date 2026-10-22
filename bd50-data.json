@@ -3,6 +3,13 @@
   "target": 50,
   "minimumFollowers": 80000,
   "maximumFollowers": 250000,
+  "followerExceptions": [
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xxqe6u9tivksck",
+      "kuaishouId": "xqxq0629",
+      "followers": 264000
+    }
+  ],
   "reusePrevious": false,
   "creators": [
     {
@@ -586,5 +593,5 @@
   "remaining": 14,
   "status": "collecting",
   "statusNote": "三路快筛进行中：全新50位，优先10万—20万粉，弹性约8万—25万，个别略超另标；有公开联系方式，内容方向宽松评估。",
-  "updatedAt": "2026-10-22T20:23:12.617Z"
+  "updatedAt": "2026-10-22T20:25:32.000Z"
 }
