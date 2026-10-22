@@ -4,10 +4,27 @@
   "minimumFollowers": 100000,
   "maximumFollowers": 200000,
   "reusePrevious": false,
-  "creators": [],
-  "qualified": 0,
-  "remaining": 50,
+  "creators": [
+    {
+      "name": "车圈007",
+      "profileUrl": "https://www.kuaishou.com/profile/3xdxy34vn9e7pxw",
+      "kuaishouId": "1093677855",
+      "followers": 114000,
+      "fansDisplay": "11.4万",
+      "category": "汽车用品与车载生活（文字泛匹配）",
+      "contactValue": "jsx818666",
+      "contactChannel": "合作代码（渠道未注明；与旧账号共享入口）",
+      "contactQuote": "合作❤️jsx818666",
+      "contactPurposePending": false,
+      "fitReason": "当前11.4万在新10万—20万范围，车载日常及用品主题可作为低优先泛生活候选；洗护内容关联、寄样意愿、服务费用与具体形式待沟通。 此合作代码与此前另一账号共享；本账号当前ID不同，按不同达人记录，并非新的独立联系渠道。",
+      "contentEvidence": "当前完整简介定位分享实用汽车用品；全部5条本人署名标题已读，其中后备箱车载好物、车上吃零食、车内睡觉等汽车用品生活主题明确。其余为直播提示及电影互动问题。",
+      "verifiedAt": "2026-10-22T09:13:36.483Z",
+      "rootReviewedAt": "2026-10-22T09:16:08.764Z"
+    }
+  ],
+  "qualified": 1,
+  "remaining": 49,
   "status": "collecting",
   "statusNote": "三路研究进行中：全新50位，10万—20万粉，合规公开联系方式必备；此前结果不抵扣，合格新资料逐批审核上线。",
-  "updatedAt": "2026-10-22T09:02:04.136Z"
+  "updatedAt": "2026-10-22T09:16:08.839Z"
 }
