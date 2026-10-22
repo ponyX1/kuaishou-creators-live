@@ -13,6 +13,16 @@
       "profileUrl": "https://www.kuaishou.com/profile/3xteduvzzjdmzhe",
       "kuaishouId": "715579548",
       "followers": 279000
+    },
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xhqxa9qasfahgw",
+      "kuaishouId": "4814181329",
+      "followers": 271000
+    },
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xmpyvwyvpjrt5g",
+      "kuaishouId": "Dongman010",
+      "followers": 268000
     }
   ],
   "reusePrevious": false,
@@ -688,11 +698,43 @@
       "contentEvidence": "本人署名标题含AI漫剧/剧情。",
       "verifiedAt": "2026-10-22T20:41:09.042Z",
       "rootReviewedAt": "2026-10-22T20:42:25.832Z"
+    },
+    {
+      "name": "小金ultra",
+      "profileUrl": "https://www.kuaishou.com/profile/3xhqxa9qasfahgw",
+      "kuaishouId": "4814181329",
+      "followers": 271000,
+      "fansDisplay": "27.1万",
+      "category": "剧情/搞笑",
+      "contactValue": "GSKH479",
+      "contactChannel": "商务合作代码（渠道未注明）",
+      "contactQuote": "商务合作：GSKH479（非本人）",
+      "contactPurposePending": false,
+      "fitReason": "当前27.1万略超常用范围，按粉丝弹性收录；剧情与搞笑内容，具体合作适配待确认。",
+      "contentEvidence": "完整原简介已读，抽读1条本人题：和穿越者的最后一次见面？ #长生 #穿越 #转世 #搞笑",
+      "verifiedAt": "2026-10-22T12:08:43.374Z",
+      "rootReviewedAt": "2026-10-22T20:47:58.571Z"
+    },
+    {
+      "name": "动漫解说",
+      "profileUrl": "https://www.kuaishou.com/profile/3xmpyvwyvpjrt5g",
+      "kuaishouId": "Dongman010",
+      "followers": 268000,
+      "fansDisplay": "26.8万",
+      "category": "动漫解说",
+      "contactValue": "mengraoleta",
+      "contactChannel": "商务合作代码（渠道未注明）",
+      "contactQuote": "合作v💌：mengraoleta（本人）",
+      "contactPurposePending": false,
+      "fitReason": "当前26.8万略超常用范围，按粉丝弹性收录；动漫解说方向，具体合作适配待确认。",
+      "contentEvidence": "完整原简介已读，抽读1条本人题：盘点夏目友人罩中最强大的那些存在。",
+      "verifiedAt": "2026-10-22T17:44:55.050Z",
+      "rootReviewedAt": "2026-10-22T20:47:59.049Z"
     }
   ],
-  "qualified": 42,
-  "remaining": 8,
+  "qualified": 44,
+  "remaining": 6,
   "status": "collecting",
   "statusNote": "三路快筛进行中：全新50位，优先10万—20万粉，弹性约8万—25万，个别略超另标；有公开联系方式，内容方向宽松评估。",
-  "updatedAt": "2026-10-22T20:42:26.872Z"
+  "updatedAt": "2026-10-22T20:48:00.520Z"
 }
