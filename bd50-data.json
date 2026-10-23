@@ -2583,11 +2583,28 @@
       "contentEvidence": "当前个人昵称“宾宾和乒乓球”，简介自述品牌主理人并明确列商务入口；不认证品牌身份或内容效果。",
       "verifiedAt": "2026-10-23T14:03:46.617Z",
       "rootReviewedAt": "2026-10-23T14:10:20.895Z"
+    },
+    {
+      "name": "音乐人胡力",
+      "profileUrl": "https://live.kuaishou.com/profile/huli19741128",
+      "kuaishouId": "huli19741128",
+      "followers": 93000,
+      "fansDisplay": "9.3w",
+      "category": "音乐创作／歌曲分享",
+      "contactValue": "Hu-DaLiang",
+      "contactChannel": "公开版权／商务／工作微信",
+      "contactQuote": "·版权/商务/工作WeChat ：Hu-DaLiang",
+      "contactRestrictions": "版权、商务及工作联系；具体合作形式和费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前官方本人用户卡9.3万粉，实际profile同名同ID且公开明确商务工作微信；音乐创作方向，具体品牌合作适配待确认。",
+      "contentEvidence": "当前本人简介自述词曲创作并列出多首代表作，粗评为音乐创作方向；公开profile无可读作品标题。",
+      "verifiedAt": "2026-10-23T14:14:41.610Z",
+      "rootReviewedAt": "2026-10-23T14:16:32.350Z"
     }
   ],
-  "qualified": 4,
-  "remaining": 96,
+  "qualified": 5,
+  "remaining": 95,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:12:41.672Z"
+  "updatedAt": "2026-10-23T14:16:32.926Z"
 }
