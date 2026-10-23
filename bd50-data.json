@@ -1087,11 +1087,27 @@
       "contentEvidence": "本人简介公开合/学联系码，抽读本人署名相声搞笑合集标题，内容仅粗评。",
       "verifiedAt": "2026-10-23T02:39:15.097Z",
       "rootReviewedAt": "2026-10-23T02:40:28.315Z"
+    },
+    {
+      "name": "蒹葭娱乐",
+      "profileUrl": "https://www.kuaishou.com/profile/3xmb3kmxkme3fq2",
+      "kuaishouId": "3720144374",
+      "followers": 115000,
+      "fansDisplay": "11.5万",
+      "category": "体育泛娱乐",
+      "contactValue": "ppyyqd",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合作：ppyyqd",
+      "contactPurposePending": false,
+      "fitReason": "体育兴趣与泛娱乐内容，低优先泛生活匹配，具体合作适配待确认。",
+      "contentEvidence": "本人署名标题“#孙颖莎 #国乒 #女性力量 #体育精神”。",
+      "verifiedAt": "2026-10-23T02:40:26.875Z",
+      "rootReviewedAt": "2026-10-23T02:41:07.479Z"
     }
   ],
-  "qualified": 17,
-  "remaining": 33,
+  "qualified": 18,
+  "remaining": 32,
   "status": "collecting",
   "statusNote": "第二批新增50位正在快筛：前50位保留，本批独立去重计数；有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T02:40:29.013Z"
+  "updatedAt": "2026-10-23T02:41:08.184Z"
 }
