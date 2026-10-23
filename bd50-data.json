@@ -1,8 +1,8 @@
 {
   "campaignId": "bd50_100k_200k_20261023_batch2",
-  "target": 50,
+  "target": 100,
   "batchNumber": 2,
-  "cumulativeTarget": 100,
+  "cumulativeTarget": 150,
   "previousCreators": [
     {
       "name": "车圈007",
@@ -1287,8 +1287,8 @@
     }
   ],
   "qualified": 29,
-  "remaining": 21,
+  "remaining": 71,
   "status": "collecting",
-  "statusNote": "第二批新增50位正在快筛：前50位保留，本批独立去重计数；有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T03:21:52.544Z"
+  "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
+  "updatedAt": "2026-10-23T03:34:58.509Z"
 }
