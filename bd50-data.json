@@ -975,11 +975,27 @@
       "contentEvidence": "本人署名代表标题含地铁逃生、撤离挑战。",
       "verifiedAt": "2026-10-23T02:04:13.568Z",
       "rootReviewedAt": "2026-10-23T02:05:06.103Z"
+    },
+    {
+      "name": "小布点营销号",
+      "profileUrl": "https://www.kuaishou.com/profile/3xuay6474f6nv6a",
+      "kuaishouId": "4141292001",
+      "followers": 132000,
+      "fansDisplay": "13.2万",
+      "category": "娱乐与搞笑内容",
+      "contactValue": "ysm661213",
+      "contactChannel": "公开合作码（渠道未注明）",
+      "contactQuote": "🈴：ysm661213",
+      "contactPurposePending": false,
+      "fitReason": "当前13.2万符合目标；娱乐搞笑方向，具体合作适配待确认。",
+      "contentEvidence": "简介自述娱乐/搞笑/小说，抽读本人署名搞笑段子创新挑战赛标题，内容仅粗评。",
+      "verifiedAt": "2026-10-23T02:05:31.457Z",
+      "rootReviewedAt": "2026-10-23T02:08:43.445Z"
     }
   ],
-  "qualified": 10,
-  "remaining": 40,
+  "qualified": 11,
+  "remaining": 39,
   "status": "collecting",
   "statusNote": "第二批新增50位正在快筛：前50位保留，本批独立去重计数；有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T02:05:06.633Z"
+  "updatedAt": "2026-10-23T02:08:44.029Z"
 }
