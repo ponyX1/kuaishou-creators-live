@@ -807,7 +807,13 @@
   ],
   "minimumFollowers": 80000,
   "maximumFollowers": 250000,
-  "followerExceptions": [],
+  "followerExceptions": [
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xufht38te3xzkq",
+      "kuaishouId": "babywhite1122",
+      "followers": 268000
+    }
+  ],
   "reusePrevious": false,
   "creators": [
     {
@@ -889,11 +895,43 @@
       "contentEvidence": "本人署名代表标题明确崩坏星穹铁道游戏。",
       "verifiedAt": "2026-10-23T01:39:38.750Z",
       "rootReviewedAt": "2026-10-23T01:40:31.526Z"
+    },
+    {
+      "name": "小白白呀❤三胎孕中期",
+      "profileUrl": "https://www.kuaishou.com/profile/3xgpgg6iha8r79m",
+      "kuaishouId": "Abaibaby",
+      "followers": 155000,
+      "fansDisplay": "15.5万",
+      "category": "泛生活美食",
+      "contactValue": "miss9712345",
+      "contactChannel": "公开商务码（渠道未标）",
+      "contactQuote": "商务 miss9712345（备注来意）",
+      "contactPurposePending": false,
+      "fitReason": "日常活动、零食美食话题，可作泛生活匹配。",
+      "contentEvidence": "本人署名代表标题涉及下雨天拼豆、喝吃和红薯片。",
+      "verifiedAt": "2026-10-23T01:47:44.536Z",
+      "rootReviewedAt": "2026-10-23T01:48:45.406Z"
+    },
+    {
+      "name": "白白er🍇",
+      "profileUrl": "https://www.kuaishou.com/profile/3xufht38te3xzkq",
+      "kuaishouId": "babywhite1122",
+      "followers": 268000,
+      "fansDisplay": "26.8万",
+      "category": "运动穿搭",
+      "contactValue": "heyo_1122",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "🈴️：heyo_1122（备注产品）",
+      "contactPurposePending": false,
+      "fitReason": "粉丝26.8万，按弹性范围单条收录并标注略超；运动鞋、穿搭话题可作泛消费匹配。",
+      "contentEvidence": "本人署名代表标题含#威量炽速 #冬日多巴胺战靴。",
+      "verifiedAt": "2026-10-23T01:48:34.731Z",
+      "rootReviewedAt": "2026-10-23T01:50:24.571Z"
     }
   ],
-  "qualified": 5,
-  "remaining": 45,
+  "qualified": 7,
+  "remaining": 43,
   "status": "collecting",
   "statusNote": "第二批新增50位正在快筛：前50位保留，本批独立去重计数；有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T01:40:32.019Z"
+  "updatedAt": "2026-10-23T01:50:25.190Z"
 }
