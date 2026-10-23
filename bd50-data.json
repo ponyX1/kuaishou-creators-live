@@ -2527,6 +2527,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3x5ghxiwvegbd6y",
       "kuaishouId": "3x5ghxiwvegbd6y",
       "followers": 268000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xf5v7rhuwbta2y",
+      "kuaishouId": "3xf5v7rhuwbta2y",
+      "followers": 259000
     }
   ],
   "reusePrevious": false,
@@ -2887,11 +2892,79 @@
       "contentEvidence": "当前昵称为梦幻西游马头头，简介将资源合作与梦幻脱坑两个入口分列。",
       "verifiedAt": "2026-10-23T14:39:33.541Z",
       "rootReviewedAt": "2026-10-23T14:43:21.927Z"
+    },
+    {
+      "name": "相声新番",
+      "profileUrl": "https://live.kuaishou.com/profile/3xf5v7rhuwbta2y",
+      "kuaishouId": "3xf5v7rhuwbta2y",
+      "followers": 259000,
+      "fansDisplay": "25.9w",
+      "category": "相声/泛娱乐",
+      "contactValue": "toutiao566",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "合作+toutiao566",
+      "contactRestrictions": "具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "当前25.9万粉，按用户弹性范围作单例纳入；相声及泛娱乐方向，具体寄样合作适配待确认。",
+      "contentEvidence": "当前昵称为相声新番，简介叙述相声相关内容并独立给合作入口，不认证与所提团体关系。",
+      "verifiedAt": "2026-10-23T14:43:46.749Z",
+      "rootReviewedAt": "2026-10-23T14:50:22.819Z"
+    },
+    {
+      "name": "小小闫是魔术师",
+      "profileUrl": "https://live.kuaishou.com/profile/xiaoxiaoyan0603",
+      "kuaishouId": "xiaoxiaoyan0603",
+      "followers": 168000,
+      "fansDisplay": "16.8w",
+      "category": "兴趣娱乐",
+      "contactValue": "xiaoxiaoyan0603",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务 xiaoxiaoyan0603",
+      "contactRestrictions": "具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "兴趣娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "当前昵称为小小闫是魔术师，简介独立给出商务入口；不认证实际技艺或性别。",
+      "verifiedAt": "2026-10-23T14:45:32.394Z",
+      "rootReviewedAt": "2026-10-23T14:50:23.112Z"
+    },
+    {
+      "name": "刚头唢呐",
+      "profileUrl": "https://live.kuaishou.com/profile/3xn43iur5w5e8me",
+      "kuaishouId": "3xn43iur5w5e8me",
+      "followers": 225000,
+      "fansDisplay": "22.5w",
+      "category": "音乐/才艺兴趣",
+      "contactValue": "13832554617",
+      "contactChannel": "公开微信（原文同微信，合作用途待确认）",
+      "contactQuote": "手机📱13832554617📱（同微信）",
+      "contactRestrictions": "原文手机同微信，未明确品牌合作用途，需先确认；所提大号未跟访。",
+      "contactPurposePending": true,
+      "fitReason": "音乐才艺兴趣方向，公开微信的具体品牌合作用途待确认。",
+      "contentEvidence": "当前昵称为刚头唢呐，简介为才艺表演方向，并主动明示公开微信；所列大号未跟访、不借身份或粉丝。",
+      "verifiedAt": "2026-10-23T14:47:33.682Z",
+      "rootReviewedAt": "2026-10-23T14:50:57.368Z"
+    },
+    {
+      "name": "峰源萨克斯",
+      "profileUrl": "https://live.kuaishou.com/profile/FYSAX_01",
+      "kuaishouId": "FYSAX_01",
+      "followers": 95000,
+      "fansDisplay": "9.5w",
+      "category": "音乐兴趣",
+      "contactValue": "yuanyi1257",
+      "contactChannel": "公开工作合作码（渠道未标）",
+      "contactQuote": "U盘/乐器/配件/演出/教学/乐谱/合作：yuanyi1257（工作号）",
+      "contactRestrictions": "工作号同时用于U盘、乐器、配件、演出、教学、乐谱和合作；具体渠道未注明，实际合作形式需确认。",
+      "contactPurposePending": false,
+      "fitReason": "音乐兴趣方向，具体品牌合作形式与适配待确认。",
+      "contentEvidence": "当前昵称与简介为音乐方向，工作号明确将合作与商品/演出/教学并列，不认证品牌艺术家自述。",
+      "verifiedAt": "2026-10-23T14:49:52.245Z",
+      "rootReviewedAt": "2026-10-23T14:51:20.059Z"
     }
   ],
-  "qualified": 21,
-  "remaining": 79,
+  "qualified": 25,
+  "remaining": 75,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:43:22.986Z"
+  "updatedAt": "2026-10-23T14:51:20.266Z"
 }
