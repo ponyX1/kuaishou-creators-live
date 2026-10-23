@@ -2280,11 +2280,28 @@
       "contentEvidence": "当前本人简介明确写“记录我的日常｜分享穿搭化妆｜好物推荐”，按本人简介粗评；公开profile页未提供可读作品标题。",
       "verifiedAt": "2026-10-23T10:20:36.921Z",
       "rootReviewedAt": "2026-10-23T10:21:28.016Z"
+    },
+    {
+      "name": "秋千干货解说",
+      "profileUrl": "https://live.kuaishou.com/profile/qiuqianjieshuo",
+      "kuaishouId": "qiuqianjieshuo",
+      "followers": 170000,
+      "fansDisplay": "17w",
+      "category": "游戏解说（仅简介方向粗筛）",
+      "contactValue": "bd-vspn",
+      "contactChannel": "公开商务联系方式（渠道未明示）",
+      "contactQuote": "商务合作:bd-vspn",
+      "contactRestrictions": "保持原文商务用语，不推断渠道；具体合作形式及费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "简介为游戏解说内容方向，独立商务合作入口明确；不认证简介中的赛事经历、官方身份或专业效果。",
+      "contentEvidence": "当前本人公开profileID和完整简介已读；同次实际房间本人.author .fans为17w，与同名同handle profile相连。简介自述游戏解说，未核具体作品或认证自述。",
+      "verifiedAt": "2026-10-23T10:35:11.886Z",
+      "rootReviewedAt": "2026-10-23T10:38:58.184Z"
     }
   ],
-  "qualified": 85,
-  "remaining": 15,
+  "qualified": 86,
+  "remaining": 14,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T10:21:29.296Z"
+  "updatedAt": "2026-10-23T10:38:59.462Z"
 }
