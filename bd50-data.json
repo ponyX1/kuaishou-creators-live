@@ -825,11 +825,43 @@
       "contentEvidence": "本人署名代表标题为演小段子/奶蛋摇。",
       "verifiedAt": "2026-10-22T20:56:22.740Z",
       "rootReviewedAt": "2026-10-23T01:30:45.318Z"
+    },
+    {
+      "name": "楚！",
+      "profileUrl": "https://www.kuaishou.com/profile/3xg4fdqk7yasw7e",
+      "kuaishouId": "5211712992",
+      "followers": 229000,
+      "fansDisplay": "22.9万",
+      "category": "音乐兴趣",
+      "contactValue": "JFCcc6978",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "🈴：JFCcc6978",
+      "contactPurposePending": false,
+      "fitReason": "音乐兴趣泛娱乐内容，可作低优先匹配。",
+      "contentEvidence": "简介“给我一首歌的时间”；本人署名标题《想➕一城山水》。",
+      "verifiedAt": "2026-10-23T01:31:07.590Z",
+      "rootReviewedAt": "2026-10-23T01:32:15.356Z"
+    },
+    {
+      "name": "左左",
+      "profileUrl": "https://www.kuaishou.com/profile/3xvfpnywktpesvm",
+      "kuaishouId": "zxQ2870573837",
+      "followers": 146000,
+      "fansDisplay": "14.6万",
+      "category": "美妆好物与生活日常",
+      "contactValue": "zxQ2870573837",
+      "contactChannel": "公开商务合作码（渠道未注明）",
+      "contactQuote": "👉zxQ2870573837（商务合作备注来意）",
+      "contactPurposePending": false,
+      "fitReason": "当前14.6万符合目标；美妆生活内容可宽泛接洽，具体合作适配待确认。",
+      "contentEvidence": "完整简介公开商务标注，抽读本人署名高颅顶补发片好物标题，内容方向粗评。",
+      "verifiedAt": "2026-10-22T20:58:03.234Z",
+      "rootReviewedAt": "2026-10-23T01:33:10.647Z"
     }
   ],
-  "qualified": 1,
-  "remaining": 49,
+  "qualified": 3,
+  "remaining": 47,
   "status": "collecting",
   "statusNote": "第二批新增50位正在快筛：前50位保留，本批独立去重计数；有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T01:30:51.578Z"
+  "updatedAt": "2026-10-23T01:33:11.119Z"
 }
