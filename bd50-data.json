@@ -2600,11 +2600,45 @@
       "contentEvidence": "当前本人简介自述词曲创作并列出多首代表作，粗评为音乐创作方向；公开profile无可读作品标题。",
       "verifiedAt": "2026-10-23T14:14:41.610Z",
       "rootReviewedAt": "2026-10-23T14:16:32.350Z"
+    },
+    {
+      "name": "超厉害的阿大",
+      "profileUrl": "https://live.kuaishou.com/profile/3xieiq4r6vhzzxw",
+      "kuaishouId": "3xieiq4r6vhzzxw",
+      "followers": 234000,
+      "fansDisplay": "23.4w",
+      "category": "内容主题待确认",
+      "contactValue": "AD1214DA",
+      "contactChannel": "公开商务联系方式（渠道未明示）",
+      "contactQuote": "🈴作🛰️AD1214DA",
+      "contactRestrictions": "具体联系渠道、合作形式与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "普通内容账号主动公开独立商务入口，按当前宽松口径保留具体内容主题待确认，不从昵称推断身份或关系。",
+      "contentEvidence": "当前官方公开搜索本人卡实际粉丝标签与同次个人页ID和完整简介已配对；个人页统计为0/0/0占位，未作实际粉数。独立合作入口明确，无可核作品标题，内容主题待确认。",
+      "verifiedAt": "2026-10-23T14:21:36.662Z",
+      "rootReviewedAt": "2026-10-23T14:25:53.501Z"
+    },
+    {
+      "name": "说唱刷怪笼",
+      "profileUrl": "https://live.kuaishou.com/profile/MSW00321",
+      "kuaishouId": "MSW00321",
+      "followers": 85000,
+      "fansDisplay": "8.5w",
+      "category": "音乐（仅简介粗筛）",
+      "contactValue": "MSW017",
+      "contactChannel": "公开商务联系方式（渠道未明示）",
+      "contactQuote": "录歌/混音/商务/歌曲：MSW017",
+      "contactRestrictions": "同入口用于录歌、混音、商务及歌曲相关业务；具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "本人公开简介提供音乐相关并列商务入口，按当前宽松内容口径提案；未核具体作品，不认证原创或服务质量。",
+      "contentEvidence": "当前官方公开搜索本人卡实际粉丝标签与同次个人页ID和完整简介已配对；个人页统计为0/0/0占位，未作实际粉数。独立合作入口明确，无可核作品标题，内容主题待确认。",
+      "verifiedAt": "2026-10-23T14:24:35.021Z",
+      "rootReviewedAt": "2026-10-23T14:25:54.213Z"
     }
   ],
-  "qualified": 5,
-  "remaining": 95,
+  "qualified": 7,
+  "remaining": 93,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:16:32.926Z"
+  "updatedAt": "2026-10-23T14:25:54.772Z"
 }
