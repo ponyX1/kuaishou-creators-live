@@ -2532,6 +2532,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xf5v7rhuwbta2y",
       "kuaishouId": "3xf5v7rhuwbta2y",
       "followers": 259000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xsda6585evuz9g",
+      "kuaishouId": "3xsda6585evuz9g",
+      "followers": 276000
     }
   ],
   "reusePrevious": false,
@@ -2960,11 +2965,62 @@
       "contentEvidence": "当前昵称与简介为音乐方向，工作号明确将合作与商品/演出/教学并列，不认证品牌艺术家自述。",
       "verifiedAt": "2026-10-23T14:49:52.245Z",
       "rootReviewedAt": "2026-10-23T14:51:20.059Z"
+    },
+    {
+      "name": "赵东俊（音乐制作人）",
+      "profileUrl": "https://live.kuaishou.com/profile/zdj66888999",
+      "kuaishouId": "zdj66888999",
+      "followers": 119000,
+      "fansDisplay": "11.9w",
+      "category": "音乐创作／制作",
+      "contactValue": "739238386",
+      "contactChannel": "创作者公开微信（原文vx，合作用途待确认）",
+      "contactQuote": "vx：739238386",
+      "contactRestrictions": "原文仅标vx，未明确品牌合作用途；简介列作词、作曲、编曲、歌曲发行、配乐方向，具体合作形式与费用待确认。",
+      "contactPurposePending": true,
+      "fitReason": "当前官方本人卡11.9万粉，实际同名同ID公开profile主动提供vx联系方式；是否接受品牌内容合作待确认。",
+      "contentEvidence": "本人简介自述作词、作曲、编曲、歌曲发行与配乐；按当前简介粗评，未认证专业资质、原创归属或服务质量。",
+      "verifiedAt": "2026-10-23T14:50:34.499Z",
+      "rootReviewedAt": "2026-10-23T14:53:27.760Z"
+    },
+    {
+      "name": "斯派克美食英语",
+      "profileUrl": "https://live.kuaishou.com/profile/3xe4vd6sg5rc7gy",
+      "kuaishouId": "3xe4vd6sg5rc7gy",
+      "followers": 148000,
+      "fansDisplay": "14.8w",
+      "category": "内容主题待确认",
+      "contactValue": "SPiK2002",
+      "contactChannel": "公开商务联系方式（渠道未明示）",
+      "contactQuote": "合作请＋V: SPiK2002",
+      "contactRestrictions": "私信几乎很少看；原V不猜微信或其他渠道，合作形式及费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "普通内容账号主动公开独立商务入口，按当前宽松口径保留具体内容主题待确认，不从昵称推断身份或关系。",
+      "contentEvidence": "当前官方公开搜索本人卡实际粉丝标签与同次个人页ID和完整简介已配对；个人页统计为0/0/0占位，未作实际粉数。独立合作入口明确，无可核作品标题，内容主题待确认。",
+      "verifiedAt": "2026-10-23T14:50:59.034Z",
+      "rootReviewedAt": "2026-10-23T14:53:28.044Z"
+    },
+    {
+      "name": "琳儿✨二胡",
+      "profileUrl": "https://live.kuaishou.com/profile/3xsda6585evuz9g",
+      "kuaishouId": "3xsda6585evuz9g",
+      "followers": 276000,
+      "fansDisplay": "27.6w",
+      "category": "音乐兴趣",
+      "contactValue": "erhuyilin1214",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合作：erhuyilin1214（备注来意）",
+      "contactRestrictions": "商务合作需备注来意；挑琴码另列未使用，具体商务联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "当前27.6万粉，按用户弹性范围单例纳入；二胡音乐方向，独立商务入口，具体寄样适配待确认。",
+      "contentEvidence": "当前简介为二胡音乐方向，独立商务合作入口与挑琴码分列；不认证师承或专业资历自述。",
+      "verifiedAt": "2026-10-23T14:51:10.474Z",
+      "rootReviewedAt": "2026-10-23T14:53:28.326Z"
     }
   ],
-  "qualified": 25,
-  "remaining": 75,
+  "qualified": 28,
+  "remaining": 72,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:51:20.266Z"
+  "updatedAt": "2026-10-23T14:54:30.102Z"
 }
