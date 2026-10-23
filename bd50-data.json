@@ -2512,6 +2512,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xde45gdsiczm49",
       "kuaishouId": "3xde45gdsiczm49",
       "followers": 260000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xn4xbrs4nkpkru",
+      "kuaishouId": "3xn4xbrs4nkpkru",
+      "followers": 264000
     }
   ],
   "reusePrevious": false,
@@ -2634,11 +2639,79 @@
       "contentEvidence": "当前官方公开搜索本人卡实际粉丝标签与同次个人页ID和完整简介已配对；个人页统计为0/0/0占位，未作实际粉数。独立合作入口明确，无可核作品标题，内容主题待确认。",
       "verifiedAt": "2026-10-23T14:24:35.021Z",
       "rootReviewedAt": "2026-10-23T14:25:54.213Z"
+    },
+    {
+      "name": "吉他н",
+      "profileUrl": "https://live.kuaishou.com/profile/DmhJun02",
+      "kuaishouId": "DmhJun02",
+      "followers": 113000,
+      "fansDisplay": "11.3w",
+      "category": "内容主题待确认",
+      "contactValue": "AA08dmh",
+      "contactChannel": "公开合作码（原标🛰️，渠道未注明）",
+      "contactQuote": "合作🛰️AA08dmh",
+      "contactRestrictions": "原标🛰️，具体联系渠道待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前粉丝处于目标范围，简介明确公开商务入口；具体内容方向与寄样合作适配待沟通。",
+      "contentEvidence": "昵称及当前吉他搜索提供音乐方向线索；本人简介仅写合作码，具体内容方向待确认，公开profile无可读作品标题。",
+      "verifiedAt": "2026-10-23T14:27:39.404Z",
+      "rootReviewedAt": "2026-10-23T14:29:09.123Z"
+    },
+    {
+      "name": "英雄联盟-皮皮鳄",
+      "profileUrl": "https://live.kuaishou.com/profile/Pipie666",
+      "kuaishouId": "Pipie666",
+      "followers": 84000,
+      "fansDisplay": "8.4w",
+      "category": "游戏兴趣/泛娱乐",
+      "contactValue": "pipie9",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "合作🛰️pipie9（请备注来意）",
+      "contactRestrictions": "合作请备注来意；具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "游戏兴趣与泛娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "当前昵称为英雄联盟-皮皮鳄，简介独立列明合作入口。",
+      "verifiedAt": "2026-10-23T14:28:38.136Z",
+      "rootReviewedAt": "2026-10-23T14:31:46.468Z"
+    },
+    {
+      "name": "邪剑仙喵瑞莉娅（英雄联盟",
+      "profileUrl": "https://live.kuaishou.com/profile/3xn4xbrs4nkpkru",
+      "kuaishouId": "3xn4xbrs4nkpkru",
+      "followers": 264000,
+      "fansDisplay": "26.4w",
+      "category": "游戏泛娱乐",
+      "contactValue": "kakaxi_ljl",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合：kakaxi_ljl",
+      "contactRestrictions": "具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "当前26.4万粉，按弹性范围单条收录并如实标注；游戏泛娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介为游戏切片方向并独立列商务入口，未借所提其他账号身份或内容。",
+      "verifiedAt": "2026-10-23T14:28:56.135Z",
+      "rootReviewedAt": "2026-10-23T14:31:47.160Z"
+    },
+    {
+      "name": "DNF狂人",
+      "profileUrl": "https://live.kuaishou.com/profile/Woshikuangren",
+      "kuaishouId": "Woshikuangren",
+      "followers": 124000,
+      "fansDisplay": "12.4w",
+      "category": "游戏泛娱乐",
+      "contactValue": "LAH10888",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合作V：LAH10888",
+      "contactRestrictions": "具体联系渠道未注明；粉丝Q群另列，未取作合作入口。",
+      "contactPurposePending": false,
+      "fitReason": "游戏泛娱乐方向，具体品牌合作适配待确认。",
+      "contentEvidence": "当前昵称与简介为DNF游戏兴趣方向，独立公开商务合作入口；简介中排名与纪录均为自述。",
+      "verifiedAt": "2026-10-23T14:30:05.611Z",
+      "rootReviewedAt": "2026-10-23T14:32:14.981Z"
     }
   ],
-  "qualified": 7,
-  "remaining": 93,
+  "qualified": 11,
+  "remaining": 89,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:25:54.772Z"
+  "updatedAt": "2026-10-23T14:32:15.549Z"
 }
