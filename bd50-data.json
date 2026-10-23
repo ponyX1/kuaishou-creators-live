@@ -2537,6 +2537,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xsda6585evuz9g",
       "kuaishouId": "3xsda6585evuz9g",
       "followers": 276000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/YL1030YL",
+      "kuaishouId": "YL1030YL",
+      "followers": 277000
     }
   ],
   "reusePrevious": false,
@@ -3237,11 +3242,45 @@
       "contentEvidence": "当前本人昵称“厨师尼克”，简介列厨艺节目与厨师相关自述并公开合作邮箱；按简介粗评厨艺内容，未独立认证履历、关系或专业资质。",
       "verifiedAt": "2026-10-23T16:33:00.707Z",
       "rootReviewedAt": "2026-10-23T16:34:17.284Z"
+    },
+    {
+      "name": "厨师✔小杨",
+      "profileUrl": "https://live.kuaishou.com/profile/YL1030YL",
+      "kuaishouId": "YL1030YL",
+      "followers": 277000,
+      "fansDisplay": "27.7w",
+      "category": "中餐厨艺／食品雕刻",
+      "contactValue": "404565531",
+      "contactChannel": "公开商务WX联系方式",
+      "contactQuote": "WX:404565531(商务合作注明来意)",
+      "contactRestrictions": "须注明来意；简介自述暂时停更、上班中，需确认当前接洽及排期。",
+      "contactPurposePending": false,
+      "fitReason": "当前官方本人卡27.7万粉待根单条弹性范围审核；实际同名同IDprofile公开商务WX，厨艺内容适配待确认。",
+      "contentEvidence": "当前本人简介列中餐烹调、菜品盘饰、食品雕刻、水果雕刻、果酱画及糖艺，并公开商务WX。原创及经历为自述，未另行认证。",
+      "verifiedAt": "2026-10-23T16:36:09.404Z",
+      "rootReviewedAt": "2026-10-23T16:37:54.847Z"
+    },
+    {
+      "name": "诺诺",
+      "profileUrl": "https://live.kuaishou.com/profile/3xgg8hyrm3c6its",
+      "kuaishouId": "3xgg8hyrm3c6its",
+      "followers": 209000,
+      "fansDisplay": "20.9w",
+      "category": "音乐兴趣/电吉他",
+      "contactValue": "shangjun0325",
+      "contactChannel": "公开商务合作码（原文V，渠道未标）",
+      "contactQuote": "合作商务V：shangjun0325 不是本人",
+      "contactRestrictions": "原文注明“不是本人”；未注明具体渠道，不猜微信。简介自述初中生、不是老师、不教学，商务联络应先确认监护/代理身份及合规合作条件。",
+      "contactPurposePending": false,
+      "fitReason": "音乐兴趣方向，具体寄样形式、对象与商务代理授权待沟通。",
+      "contentEvidence": "当前简介写电吉他日常随弹，并单列合作商务入口；保持自述，不认证其身份或资质。",
+      "verifiedAt": "2026-10-23T16:37:04.746Z",
+      "rootReviewedAt": "2026-10-23T16:38:16.091Z"
     }
   ],
-  "qualified": 41,
-  "remaining": 59,
+  "qualified": 43,
+  "remaining": 57,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T16:34:17.440Z"
+  "updatedAt": "2026-10-23T16:38:16.254Z"
 }
