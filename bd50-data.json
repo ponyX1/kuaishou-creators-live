@@ -832,6 +832,11 @@
       "profileUrl": "https://www.kuaishou.com/profile/3xs85dyniaqhvds",
       "kuaishouId": "5344098210",
       "followers": 79000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/Selfieyeah8888",
+      "kuaishouId": "Selfieyeah8888",
+      "followers": 266000
     }
   ],
   "reusePrevious": false,
@@ -2348,11 +2353,28 @@
       "contentEvidence": "由当前手书搜索来源及本人简介约稿、只产出与搬运限制粗评为绘画创作方向；当前公开profile无可读作品标题，具体内容待确认。",
       "verifiedAt": "2026-10-23T11:18:16.834Z",
       "rootReviewedAt": "2026-10-23T11:20:46.812Z"
+    },
+    {
+      "name": "soph1ee",
+      "profileUrl": "https://live.kuaishou.com/profile/Selfieyeah8888",
+      "kuaishouId": "Selfieyeah8888",
+      "followers": 266000,
+      "fansDisplay": "26.6w",
+      "category": "内容主题待确认",
+      "contactValue": "imsophie_1206",
+      "contactChannel": "公开合作码（渠道未注明）",
+      "contactQuote": "🈴：imsophie_1206",
+      "contactRestrictions": "具体联系渠道未注明，合作适配待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前26.6万粉，按粉丝弹性单例收录；简介公开具体合作码，内容方向与寄样合作适配待确认。",
+      "contentEvidence": "仅当前唱歌搜索结果提供方向线索；本人简介未给出具体主题，当前公开profile无可读作品标题，具体内容方向待确认。",
+      "verifiedAt": "2026-10-23T11:22:39.074Z",
+      "rootReviewedAt": "2026-10-23T11:24:36.092Z"
     }
   ],
-  "qualified": 89,
-  "remaining": 11,
+  "qualified": 90,
+  "remaining": 10,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T11:20:48.943Z"
+  "updatedAt": "2026-10-23T11:24:38.273Z"
 }
