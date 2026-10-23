@@ -3118,11 +3118,28 @@
       "contentEvidence": "当前昵称与简介为京剧表演、音乐兴趣方向，独立列合作入口；学历、代表作等均保原自述，不作认证。",
       "verifiedAt": "2026-10-23T15:03:17.564Z",
       "rootReviewedAt": "2026-10-23T15:04:41.990Z"
+    },
+    {
+      "name": "紫山",
+      "profileUrl": "https://live.kuaishou.com/profile/zishanguohua",
+      "kuaishouId": "zishanguohua",
+      "followers": 164000,
+      "fansDisplay": "16.4w",
+      "category": "绘画/兴趣创作",
+      "contactValue": "Doucxyl",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "合作 /结缘 Doucxyl",
+      "contactRestrictions": "入口并列用于合作和结缘，具体合作形式需确认；联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "绘画兴趣方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介为国画教学分享方向，独立给合作/结缘入口；不认证绘画技艺、实际自用或教学效果。",
+      "verifiedAt": "2026-10-23T15:05:14.608Z",
+      "rootReviewedAt": "2026-10-23T15:08:26.363Z"
     }
   ],
-  "qualified": 34,
-  "remaining": 66,
+  "qualified": 35,
+  "remaining": 65,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T15:05:44.909Z"
+  "updatedAt": "2026-10-23T15:25:46.256Z"
 }
