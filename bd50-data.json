@@ -2076,11 +2076,28 @@
       "contentEvidence": "当前本人公开个人页身份、粉丝标签及完整简介已读，独立商务入口明确；当前作品卡仅数字无caption，未核具体作品主题。",
       "verifiedAt": "2026-10-23T08:30:08.166Z",
       "rootReviewedAt": "2026-10-23T08:32:27.390Z"
+    },
+    {
+      "name": "小强来了",
+      "profileUrl": "https://live.kuaishou.com/profile/3xzzu5yz9b85qs4",
+      "kuaishouId": "3xzzu5yz9b85qs4",
+      "followers": 138000,
+      "fansDisplay": "13.8w",
+      "category": "内容主题待确认",
+      "contactValue": "xq707808909",
+      "contactChannel": "公开商务合作码（渠道未注明）",
+      "contactQuote": "商务合作xq707808909",
+      "contactRestrictions": "简介另列“Q920334319”，保留原Q标签，不推定具体渠道。本页未提供作品文字标题，简介没有说明内容方向，合作适配待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前粉丝处于目标范围，简介明确公开商务入口；具体内容方向与寄样合作适配待沟通。",
+      "contentEvidence": "当前本人简介为“商务合作xq707808909 Q920334319”；头部显示66件作品，但当前公开页作品区没有可读标题，未据推荐者信息推断本人内容方向。",
+      "verifiedAt": "2026-10-23T08:47:28.518Z",
+      "rootReviewedAt": "2026-10-23T08:51:55.389Z"
     }
   ],
-  "qualified": 73,
-  "remaining": 27,
+  "qualified": 74,
+  "remaining": 26,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T08:32:29.059Z"
+  "updatedAt": "2026-10-23T08:51:56.662Z"
 }
