@@ -1,8 +1,8 @@
 {
-  "campaignId": "bd50_100k_200k_20261023_batch2",
+  "campaignId": "bd50_100k_200k_20261023_batch3",
   "target": 100,
-  "batchNumber": 2,
-  "cumulativeTarget": 150,
+  "batchNumber": 3,
+  "cumulativeTarget": 250,
   "previousCreators": [
     {
       "name": "车圈007",
@@ -803,49 +803,7 @@
       "contentEvidence": "完整原简介已读，抽读1条本人题：门上这些标记别忽视‼️一秒教你去除 #科普 #安全 #涨知识 #干货",
       "verifiedAt": "2026-10-22T20:56:38.812Z",
       "rootReviewedAt": "2026-10-22T20:59:43.542Z"
-    }
-  ],
-  "minimumFollowers": 80000,
-  "maximumFollowers": 250000,
-  "followerExceptions": [
-    {
-      "profileUrl": "https://www.kuaishou.com/profile/3xufht38te3xzkq",
-      "kuaishouId": "babywhite1122",
-      "followers": 268000
     },
-    {
-      "profileUrl": "https://www.kuaishou.com/profile/3x7hcdsu5m4mxry",
-      "kuaishouId": "keliovot",
-      "followers": 254000
-    },
-    {
-      "profileUrl": "https://www.kuaishou.com/profile/3xj5m8798954tje",
-      "kuaishouId": "2160323759",
-      "followers": 258000
-    },
-    {
-      "profileUrl": "https://www.kuaishou.com/profile/3xet75d9cifsype",
-      "kuaishouId": "3571267786",
-      "followers": 275000
-    },
-    {
-      "profileUrl": "https://www.kuaishou.com/profile/3xs85dyniaqhvds",
-      "kuaishouId": "5344098210",
-      "followers": 79000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/Selfieyeah8888",
-      "kuaishouId": "Selfieyeah8888",
-      "followers": 266000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xfujakur4r9h79",
-      "kuaishouId": "3xfujakur4r9h79",
-      "followers": 253000
-    }
-  ],
-  "reusePrevious": false,
-  "creators": [
     {
       "name": "命护陕西",
       "profileUrl": "https://www.kuaishou.com/profile/3xy35mb52j22x3c",
@@ -2547,9 +2505,14 @@
       "rootReviewedAt": "2026-10-23T11:46:24.921Z"
     }
   ],
-  "qualified": 100,
-  "remaining": 0,
-  "status": "completed",
-  "statusNote": "第二批新增100位已完成，累计150位；均附公开联系方式，弹性粉丝范围及待确认项已注明。",
-  "updatedAt": "2026-10-23T11:46:27.020Z"
+  "minimumFollowers": 80000,
+  "maximumFollowers": 250000,
+  "followerExceptions": [],
+  "reusePrevious": false,
+  "creators": [],
+  "qualified": 0,
+  "remaining": 100,
+  "status": "collecting",
+  "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
+  "updatedAt": "2026-10-23T13:52:49.362Z"
 }
