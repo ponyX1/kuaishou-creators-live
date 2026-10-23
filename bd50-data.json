@@ -2297,11 +2297,28 @@
       "contentEvidence": "当前本人公开profileID和完整简介已读；同次实际房间本人.author .fans为17w，与同名同handle profile相连。简介自述游戏解说，未核具体作品或认证自述。",
       "verifiedAt": "2026-10-23T10:35:11.886Z",
       "rootReviewedAt": "2026-10-23T10:38:58.184Z"
+    },
+    {
+      "name": "点点Agod",
+      "profileUrl": "https://live.kuaishou.com/profile/diandianjieshuo",
+      "kuaishouId": "diandianjieshuo",
+      "followers": 91000,
+      "fansDisplay": "9.1w",
+      "category": "格斗游戏／赛事解说",
+      "contactValue": "bd-vspo",
+      "contactChannel": "公开商务合作码（渠道未注明）",
+      "contactQuote": "商务合作：bd-vspo",
+      "contactRestrictions": "具体联系渠道未注明；战队、选手、官方解说及赛事运营等身份经历均为本人简介自述。",
+      "contactPurposePending": false,
+      "fitReason": "当前本人直播房间9.1万粉，公开具体商务合作码；格斗游戏与赛事解说方向，具体品牌合作适配待确认。",
+      "contentEvidence": "当前本人简介明确写格斗游戏解说与赛事运营，并列街霸6、拳皇15、饿狼等方向；公开profile页未提供可读作品标题。",
+      "verifiedAt": "2026-10-23T10:46:55.683Z",
+      "rootReviewedAt": "2026-10-23T10:53:12.762Z"
     }
   ],
-  "qualified": 86,
-  "remaining": 14,
+  "qualified": 87,
+  "remaining": 13,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T10:38:59.462Z"
+  "updatedAt": "2026-10-23T10:53:14.425Z"
 }
