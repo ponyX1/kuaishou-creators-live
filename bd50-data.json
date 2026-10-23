@@ -827,6 +827,11 @@
       "profileUrl": "https://www.kuaishou.com/profile/3xet75d9cifsype",
       "kuaishouId": "3571267786",
       "followers": 275000
+    },
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xs85dyniaqhvds",
+      "kuaishouId": "5344098210",
+      "followers": 79000
     }
   ],
   "reusePrevious": false,
@@ -1816,11 +1821,28 @@
       "contentEvidence": "完整当前简介及认证描述区域已读；抽1本人署名标题“只要一吃点啥，马上就出现了”，结合简介萌宠方向粗筛。",
       "verifiedAt": "2026-10-23T05:28:41.204Z",
       "rootReviewedAt": "2026-10-23T05:32:10.426Z"
+    },
+    {
+      "name": "98游戏剪辑",
+      "profileUrl": "https://www.kuaishou.com/profile/3xs85dyniaqhvds",
+      "kuaishouId": "5344098210",
+      "followers": 79000,
+      "fansDisplay": "7.9万",
+      "category": "游戏剪辑/泛娱乐",
+      "contactValue": "AWM200278",
+      "contactChannel": "公开合作入口（渠道未明）",
+      "contactQuote": "不是本人 🈴，AWM200278",
+      "contactRestrictions": "不是本人；入口用途保留合作。",
+      "contactPurposePending": false,
+      "fitReason": "当前7.9万粉略低常用8万下沿，按单条粉丝弹性纳入；王者荣耀游戏剪辑泛娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "本人署名“峥峥赵云 #王者荣耀”。",
+      "verifiedAt": "2026-10-23T05:32:00.643Z",
+      "rootReviewedAt": "2026-10-23T05:33:55.572Z"
     }
   ],
-  "qualified": 58,
-  "remaining": 42,
+  "qualified": 59,
+  "remaining": 41,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T05:32:11.982Z"
+  "updatedAt": "2026-10-23T05:34:03.035Z"
 }
