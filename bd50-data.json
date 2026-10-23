@@ -2370,11 +2370,28 @@
       "contentEvidence": "仅当前唱歌搜索结果提供方向线索；本人简介未给出具体主题，当前公开profile无可读作品标题，具体内容方向待确认。",
       "verifiedAt": "2026-10-23T11:22:39.074Z",
       "rootReviewedAt": "2026-10-23T11:24:36.092Z"
+    },
+    {
+      "name": "安然护肤",
+      "profileUrl": "https://live.kuaishou.com/profile/3xudtic2kv8rb8c",
+      "kuaishouId": "3xudtic2kv8rb8c",
+      "followers": 187000,
+      "fansDisplay": "18.7w",
+      "category": "内容主题待确认",
+      "contactValue": "Anran_anran8",
+      "contactChannel": "公开商务联系方式（渠道未明示）",
+      "contactQuote": "商务合作：Anran_anran8",
+      "contactRestrictions": "保持原文商务用语，不推断渠道；具体合作形式及费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前本人主动公开独立商务入口，按宽松内容口径保留主题待确认；不跟访简介所提账号、不推断关系、国籍或合作费用。",
+      "contentEvidence": "当前官方公开搜索本人卡18.7w及完整简介、实际profile ID/bio已读；同次本人房间.author .fans18.7w复核。独立商务入口明确；公开页无可核标题，内容主题待确认。",
+      "verifiedAt": "2026-10-23T11:23:47.108Z",
+      "rootReviewedAt": "2026-10-23T11:26:41.290Z"
     }
   ],
-  "qualified": 90,
-  "remaining": 10,
+  "qualified": 91,
+  "remaining": 9,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T11:24:38.273Z"
+  "updatedAt": "2026-10-23T11:26:42.976Z"
 }
