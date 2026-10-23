@@ -3067,11 +3067,45 @@
       "contentEvidence": "本人简介自述黄梅戏青年演员，当前搜索同名用户卡与本人profile对应；专业身份及简介中署名拍摄剪辑关系未额外认证。",
       "verifiedAt": "2026-10-23T14:59:05.267Z",
       "rootReviewedAt": "2026-10-23T15:00:36.147Z"
+    },
+    {
+      "name": "叶珊【黄梅戏】",
+      "profileUrl": "https://live.kuaishou.com/profile/ys800900",
+      "kuaishouId": "ys800900",
+      "followers": 95000,
+      "fansDisplay": "9.5w",
+      "category": "黄梅戏／戏曲分享",
+      "contactValue": "1906995877",
+      "contactChannel": "创作者公开微信（合作用途待确认）",
+      "contactQuote": "加微信:1906995877",
+      "contactRestrictions": "原文公开微信，未明确商务用途；具体合作形式与费用待确认。",
+      "contactPurposePending": true,
+      "fitReason": "当前官方本人卡9.5万粉，实际同名同ID公开profile主动提供微信；戏曲分享方向，品牌内容合作适配待确认。",
+      "contentEvidence": "本人简介介绍黄梅戏来源与表演特点，按当前简介粗筛戏曲分享方向；未认证专业资质或具体作品归属。",
+      "verifiedAt": "2026-10-23T15:00:03.492Z",
+      "rootReviewedAt": "2026-10-23T15:02:02.279Z"
+    },
+    {
+      "name": "摇滚大厨",
+      "profileUrl": "https://live.kuaishou.com/profile/yaogundachunb",
+      "kuaishouId": "yaogundachunb",
+      "followers": 176000,
+      "fansDisplay": "17.6w",
+      "category": "内容主题待确认",
+      "contactValue": "wltnbl",
+      "contactChannel": "公开商务vx联系方式",
+      "contactQuote": "商务合作请加vx wltnbl（请注明来意）",
+      "contactRestrictions": "请注明来意；具体品牌合作形式与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前粉丝处于目标范围，简介明确公开商务入口；具体内容方向与寄样合作适配待沟通。",
+      "contentEvidence": "本人简介仅提供商务入口；昵称及当前摇滚搜索仅作发现线索，未据此认定音乐或烹饪内容。",
+      "verifiedAt": "2026-10-23T15:01:10.361Z",
+      "rootReviewedAt": "2026-10-23T15:02:51.894Z"
     }
   ],
-  "qualified": 31,
-  "remaining": 69,
+  "qualified": 33,
+  "remaining": 67,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T15:00:36.300Z"
+  "updatedAt": "2026-10-23T15:03:38.055Z"
 }
