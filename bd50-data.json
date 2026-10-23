@@ -837,6 +837,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/Selfieyeah8888",
       "kuaishouId": "Selfieyeah8888",
       "followers": 266000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xfujakur4r9h79",
+      "kuaishouId": "3xfujakur4r9h79",
+      "followers": 253000
     }
   ],
   "reusePrevious": false,
@@ -2387,11 +2392,45 @@
       "contentEvidence": "当前官方公开搜索本人卡18.7w及完整简介、实际profile ID/bio已读；同次本人房间.author .fans18.7w复核。独立商务入口明确；公开页无可核标题，内容主题待确认。",
       "verifiedAt": "2026-10-23T11:23:47.108Z",
       "rootReviewedAt": "2026-10-23T11:26:41.290Z"
+    },
+    {
+      "name": "慢慢钓鱼",
+      "profileUrl": "https://live.kuaishou.com/profile/3xb3bsgrsafp27c",
+      "kuaishouId": "3xb3bsgrsafp27c",
+      "followers": 247000,
+      "fansDisplay": "24.7w",
+      "category": "钓鱼/户外生活",
+      "contactValue": "c55551205",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务：c55551205（非本人）",
+      "contactRestrictions": "商务入口注明非本人；海鲜码s14142828另列不取。保留仅此账号与防骗说明，渠道未标不猜微信。",
+      "contactPurposePending": false,
+      "fitReason": "钓鱼与户外生活方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介写鱼排钓鱼日常，并单列商务入口。",
+      "verifiedAt": "2026-10-23T11:30:10.398Z",
+      "rootReviewedAt": "2026-10-23T11:31:45.658Z"
+    },
+    {
+      "name": "清清钓鱼",
+      "profileUrl": "https://live.kuaishou.com/profile/3xfujakur4r9h79",
+      "kuaishouId": "3xfujakur4r9h79",
+      "followers": 253000,
+      "fansDisplay": "25.3w",
+      "category": "钓鱼/户外生活",
+      "contactValue": "sss974797",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合作：sss974797",
+      "contactRestrictions": "商务对接非本人，添加需备注来意；仅一个账号和防骗说明保留，渠道未标不猜微信。",
+      "contactPurposePending": false,
+      "fitReason": "当前25.3万略超常用范围，作为单条粉丝弹性候选；钓鱼与户外生活方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介自述热爱钓鱼，并独立列明商务合作入口。",
+      "verifiedAt": "2026-10-23T11:31:07.361Z",
+      "rootReviewedAt": "2026-10-23T11:33:34.522Z"
     }
   ],
-  "qualified": 91,
-  "remaining": 9,
+  "qualified": 93,
+  "remaining": 7,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T11:26:42.976Z"
+  "updatedAt": "2026-10-23T11:33:36.169Z"
 }
