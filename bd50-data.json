@@ -822,6 +822,11 @@
       "profileUrl": "https://www.kuaishou.com/profile/3xj5m8798954tje",
       "kuaishouId": "2160323759",
       "followers": 258000
+    },
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xet75d9cifsype",
+      "kuaishouId": "3571267786",
+      "followers": 275000
     }
   ],
   "reusePrevious": false,
@@ -1658,11 +1663,28 @@
       "contentEvidence": "抽读本人署名搞笑、抽象主题标题；简介风格化自述不作为经历认证。",
       "verifiedAt": "2026-10-23T04:44:32.483Z",
       "rootReviewedAt": "2026-10-23T04:45:04.423Z"
+    },
+    {
+      "name": "栗子.",
+      "profileUrl": "https://www.kuaishou.com/profile/3xet75d9cifsype",
+      "kuaishouId": "3571267786",
+      "followers": 275000,
+      "fansDisplay": "27.5万",
+      "category": "游戏/第五人格与兴趣娱乐",
+      "contactValue": "lpylygzxml",
+      "contactChannel": "商务合作代码（渠道未注明）",
+      "contactQuote": "合作➕🛰️lpylygzxml",
+      "contactRestrictions": "保留未知渠道。独立合作码与陪玩私信/粉丝礼物/礼物回关分开，不取这些用途；原文提醒未成年不要刷礼物。费用形式待确认。",
+      "contactPurposePending": false,
+      "fitReason": "实际27.5万，略超常用筛选范围；游戏与兴趣娱乐内容，独立合作入口与粉丝、陪玩用途分列，具体合作适配待确认。",
+      "contentEvidence": "完整简介及昵称至快手号认证描述区域已读；抽1本人署名标题：不是约黑 #第五人格 #第五人格追光逐梦 #抽象 #会火 @快手粉条 @快手热点",
+      "verifiedAt": "2026-10-23T04:48:18.690Z",
+      "rootReviewedAt": "2026-10-23T04:49:20.946Z"
     }
   ],
-  "qualified": 49,
-  "remaining": 51,
+  "qualified": 50,
+  "remaining": 50,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T04:45:05.752Z"
+  "updatedAt": "2026-10-23T04:49:22.814Z"
 }
