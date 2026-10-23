@@ -817,6 +817,11 @@
       "profileUrl": "https://www.kuaishou.com/profile/3x7hcdsu5m4mxry",
       "kuaishouId": "keliovot",
       "followers": 254000
+    },
+    {
+      "profileUrl": "https://www.kuaishou.com/profile/3xj5m8798954tje",
+      "kuaishouId": "2160323759",
+      "followers": 258000
     }
   ],
   "reusePrevious": false,
@@ -1381,11 +1386,28 @@
       "contentEvidence": "本人署名标题“#万能锁屏 #原味cookie #手机技巧分享”。",
       "verifiedAt": "2026-10-23T03:38:24.481Z",
       "rootReviewedAt": "2026-10-23T03:40:13.822Z"
+    },
+    {
+      "name": "Sky光遇Coco",
+      "profileUrl": "https://www.kuaishou.com/profile/3xj5m8798954tje",
+      "kuaishouId": "2160323759",
+      "followers": 258000,
+      "fansDisplay": "25.8万",
+      "category": "游戏/光遇玩法",
+      "contactValue": "yui3654168",
+      "contactChannel": "商务合作代码（渠道未注明）",
+      "contactQuote": "商务合作yui3654168",
+      "contactRestrictions": "渠道未注明；原简介提醒旧视频bug或已修复、不保证技巧当前有效；合作形式与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "实际25.8万，略超常用筛选范围；游戏玩法与兴趣娱乐内容，具体合作适配待确认。",
+      "contentEvidence": "完整当前简介与认证描述区域已读；抽1条本人署名标题：变成了一个闪亮的流星yc@理理 #光遇 #光遇追光计划 #光遇珍珠季 #当星光遇见海",
+      "verifiedAt": "2026-10-23T03:57:24.253Z",
+      "rootReviewedAt": "2026-10-23T03:58:19.541Z"
     }
   ],
-  "qualified": 33,
-  "remaining": 67,
+  "qualified": 34,
+  "remaining": 66,
   "status": "collecting",
   "statusNote": "本轮目标提高到100位，已完成的本轮账号保留；前一批50位另列，累计目标150位。有公开联系方式，优先10万—20万粉，范围弹性。",
-  "updatedAt": "2026-10-23T03:40:14.845Z"
+  "updatedAt": "2026-10-23T03:58:21.064Z"
 }
