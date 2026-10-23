@@ -2517,6 +2517,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xn4xbrs4nkpkru",
       "kuaishouId": "3xn4xbrs4nkpkru",
       "followers": 264000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/lusen678",
+      "kuaishouId": "lusen678",
+      "followers": 259000
     }
   ],
   "reusePrevious": false,
@@ -2707,11 +2712,62 @@
       "contentEvidence": "当前昵称与简介为DNF游戏兴趣方向，独立公开商务合作入口；简介中排名与纪录均为自述。",
       "verifiedAt": "2026-10-23T14:30:05.611Z",
       "rootReviewedAt": "2026-10-23T14:32:14.981Z"
+    },
+    {
+      "name": "科二八次郎",
+      "profileUrl": "https://live.kuaishou.com/profile/3xhir84gqmt38hw",
+      "kuaishouId": "3xhir84gqmt38hw",
+      "followers": 169000,
+      "fansDisplay": "16.9w",
+      "category": "游戏/泛娱乐",
+      "contactValue": "2933048835",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务🛰️：2933048835",
+      "contactRestrictions": "商务入口的具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "游戏与泛娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介自述娱乐主播，独立列出商务入口。",
+      "verifiedAt": "2026-10-23T14:31:51.385Z",
+      "rootReviewedAt": "2026-10-23T14:36:06.479Z"
+    },
+    {
+      "name": "QQ飞车手游💫鹿森",
+      "profileUrl": "https://live.kuaishou.com/profile/lusen678",
+      "kuaishouId": "lusen678",
+      "followers": 259000,
+      "fansDisplay": "25.9w",
+      "category": "游戏泛娱乐",
+      "contactValue": "zx307329",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务❤️zx307329（商务合作）（上分）（帮跑素材）",
+      "contactRestrictions": "该入口同时用于商务合作、上分与帮跑素材，合作形式需确认；具体渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "当前25.9万粉，按弹性范围单条收录并如实标注；游戏泛娱乐方向，具体品牌合作适配待确认。",
+      "contentEvidence": "当前昵称为QQ飞车手游💫鹿森，简介明确商务合作入口，与上分/帮跑素材并列。",
+      "verifiedAt": "2026-10-23T14:32:23.428Z",
+      "rootReviewedAt": "2026-10-23T14:36:07.222Z"
+    },
+    {
+      "name": "joojoo手作",
+      "profileUrl": "https://live.kuaishou.com/profile/3xgb6yusak36hek",
+      "kuaishouId": "3xgb6yusak36hek",
+      "followers": 174000,
+      "fansDisplay": "17.4w",
+      "category": "租房改造/手工（仅简介粗筛）",
+      "contactValue": "1594261821@qq. com",
+      "contactChannel": "公开合作邮箱（原格式含空格）",
+      "contactQuote": "合作 1594261821@qq. com",
+      "contactRestrictions": "原邮箱含空格，按原文记录；邮箱格式及可达性待确认。",
+      "contactPurposePending": false,
+      "fitReason": "家居改造与手工方向，具体品牌及寄样合作适配待确认。",
+      "contentEvidence": "当前本人简介自述租房改造vlog、手工教程及旧物改造，并主动公开合作邮箱。",
+      "verifiedAt": "2026-10-23T14:32:38.392Z",
+      "rootReviewedAt": "2026-10-23T14:36:07.945Z"
     }
   ],
-  "qualified": 11,
-  "remaining": 89,
+  "qualified": 14,
+  "remaining": 86,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T14:32:15.549Z"
+  "updatedAt": "2026-10-23T14:36:08.631Z"
 }
