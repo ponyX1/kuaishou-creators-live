@@ -2507,7 +2507,13 @@
   ],
   "minimumFollowers": 80000,
   "maximumFollowers": 250000,
-  "followerExceptions": [],
+  "followerExceptions": [
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xde45gdsiczm49",
+      "kuaishouId": "3xde45gdsiczm49",
+      "followers": 260000
+    }
+  ],
   "reusePrevious": false,
   "creators": [
     {
@@ -2526,11 +2532,45 @@
       "contentEvidence": "当前本人昵称标明发型化妆教程，简介列明发型设计与合作入口；具体作品内容未核。",
       "verifiedAt": "2026-10-23T11:44:05.342Z",
       "rootReviewedAt": "2026-10-23T13:57:25.873Z"
+    },
+    {
+      "name": "羊洋洋💫",
+      "profileUrl": "https://live.kuaishou.com/profile/3x5pm68x3updcr4",
+      "kuaishouId": "3x5pm68x3updcr4",
+      "followers": 204000,
+      "fansDisplay": "20.4w",
+      "category": "运动兴趣/泛娱乐",
+      "contactValue": "PanDa9777666",
+      "contactChannel": "公开合作码（渠道未标）",
+      "contactQuote": "🈴 联：PanDa9777666",
+      "contactRestrictions": "具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "运动兴趣与泛娱乐方向，具体合作适配待确认。",
+      "contentEvidence": "当前简介写羽毛球实战、爆笑段子与整活，并单列合作入口；不认证资质或技术效果自述。",
+      "verifiedAt": "2026-10-23T13:56:23.299Z",
+      "rootReviewedAt": "2026-10-23T14:00:54.226Z"
+    },
+    {
+      "name": "小江🏸",
+      "profileUrl": "https://live.kuaishou.com/profile/3xde45gdsiczm49",
+      "kuaishouId": "3xde45gdsiczm49",
+      "followers": 260000,
+      "fansDisplay": "26w",
+      "category": "运动兴趣",
+      "contactValue": "q20251207q",
+      "contactChannel": "公开商务合作码（渠道未标）",
+      "contactQuote": "商务合作🛰️ q20251207q",
+      "contactRestrictions": "该入口同时用于学球和商务合作；具体联系渠道未注明。",
+      "contactPurposePending": false,
+      "fitReason": "当前26万粉，按弹性范围单条收录并如实标注；运动兴趣方向，具体品牌合作适配待确认。",
+      "contentEvidence": "当前简介出现羽毛球符号，并将学球与商务合作并列，公开具体合作码。",
+      "verifiedAt": "2026-10-23T13:58:19.065Z",
+      "rootReviewedAt": "2026-10-23T14:00:54.930Z"
     }
   ],
-  "qualified": 1,
-  "remaining": 99,
+  "qualified": 3,
+  "remaining": 97,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-23T13:57:26.451Z"
+  "updatedAt": "2026-10-23T14:00:55.500Z"
 }
