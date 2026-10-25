@@ -4217,6 +4217,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/tingting6194",
       "kuaishouId": "tingting6194",
       "followers": 77000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/W07291030Q",
+      "kuaishouId": "W07291030Q",
+      "followers": 264000
     }
   ],
   "reusePrevious": false,
@@ -4458,11 +4463,28 @@
       "contentEvidence": "当前完整简介：体育是我的生命也是我的信仰 每周一到周五直播，会提前发预告 每天更新体育大事件 莱维商务：lwxmb2025。按当前简介粗筛，未播放、截图或认证专业身份。",
       "verifiedAt": "2026-10-25T07:10:17.745Z",
       "rootReviewedAt": "2026-10-25T07:11:54.155Z"
+    },
+    {
+      "name": "柠檬家30号氧气森林",
+      "profileUrl": "https://live.kuaishou.com/profile/W07291030Q",
+      "kuaishouId": "W07291030Q",
+      "followers": 264000,
+      "fansDisplay": "26.4w",
+      "category": "母婴好物/育儿生活（仅简介粗筛）",
+      "contactValue": "369339809",
+      "contactChannel": "商务合作码（渠道未注明）",
+      "contactQuote": "🌈商务合作💚369339809。",
+      "contactRestrictions": "简介明确商务合作，具体联系渠道未注明；合作形式、寄样与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前26.4万粉，按本条弹性上沿例外保留；母婴生活方向可初步评估寄样加小额服务费，选品、渠道与合作条件待确认。",
+      "contentEvidence": "当前本人简介列母婴全品、辅食零食、营养品、纸尿裤与婴童衣服，并独立列出商务合作码；育婴师、宝妈与亲自挑选均为简介自述，未核身份、实际使用或效果。",
+      "verifiedAt": "2026-10-25T07:59:38.980Z",
+      "rootReviewedAt": "2026-10-25T08:07:44.816Z"
     }
   ],
-  "qualified": 14,
-  "remaining": 36,
+  "qualified": 15,
+  "remaining": 35,
   "status": "collecting",
   "statusNote": "前三批250位已完成并保留；第四批另找50位，独立去重，继续按弹性粉丝范围、具体公开联系方式与宽松内容方向快筛。",
-  "updatedAt": "2026-10-25T07:38:53.726Z"
+  "updatedAt": "2026-10-25T08:08:08.850Z"
 }
