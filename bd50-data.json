@@ -2547,6 +2547,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/minyaoxinzi",
       "kuaishouId": "minyaoxinzi",
       "followers": 261000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/Benboonn",
+      "kuaishouId": "Benboonn",
+      "followers": 269000
     }
   ],
   "reusePrevious": false,
@@ -3536,11 +3541,79 @@
       "contentEvidence": "当前本人简介仅明确公开商务入口，未披露内容主题，按用户宽松内容快筛交根裁量；未观看具体作品。",
       "verifiedAt": "2026-10-25T05:37:51.565Z",
       "rootReviewedAt": "2026-10-25T05:38:55.122Z"
+    },
+    {
+      "name": "婷爱美食🍝（探店）",
+      "profileUrl": "https://live.kuaishou.com/profile/ting502697129",
+      "kuaishouId": "ting502697129",
+      "followers": 109000,
+      "fansDisplay": "10.9w",
+      "category": "美食/探店",
+      "contactValue": "Zt8898baby",
+      "contactChannel": "公开合作联系码（渠道未注明）",
+      "contactQuote": "Zt8898baby合作❤️",
+      "contactRestrictions": "当前简介明确合作，未注明渠道；实际接样意愿、报价和形式待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前公开昵称与简介为美食探店方向，内容仅大致匹配；公开具体合作码，可沟通寄样加小额服务费。",
+      "contentEvidence": "当前本人公开昵称“婷爱美食🍝（探店）”与完整简介“Zt8898baby合作❤️”；没有播放作品或推断实际试用。",
+      "verifiedAt": "2026-10-25T05:38:52.829Z",
+      "rootReviewedAt": "2026-10-25T05:40:40.718Z"
+    },
+    {
+      "name": "简评测",
+      "profileUrl": "https://live.kuaishou.com/profile/jianpingce",
+      "kuaishouId": "jianpingce",
+      "followers": 129000,
+      "fansDisplay": "12.9w",
+      "category": "内容主题待确认",
+      "contactValue": "jianpingce",
+      "contactChannel": "公开商务联系码（渠道待确认）",
+      "contactQuote": "商务：jianpingce",
+      "contactRestrictions": "原简介明确商务联系，但未注明渠道；品牌、寄样意愿与报价待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前粉丝处于目标范围，简介明确公开商务入口；具体内容方向与寄样合作适配待沟通。",
+      "contentEvidence": "当前完整简介仅日常感言与明确商务入口，具体内容主题未披露，按用户宽松内容快筛交根裁量。",
+      "verifiedAt": "2026-10-25T05:40:21.108Z",
+      "rootReviewedAt": "2026-10-25T05:41:54.213Z"
+    },
+    {
+      "name": "加号哥评测",
+      "profileUrl": "https://live.kuaishou.com/profile/JHGcp888",
+      "kuaishouId": "JHGcp888",
+      "followers": 245000,
+      "fansDisplay": "24.5w",
+      "category": "美食评测/挑战",
+      "contactValue": "jhgcp888",
+      "contactChannel": "公开商务联系码（渠道待确认）",
+      "contactQuote": "商v: jhgcp888（注明来意）",
+      "contactRestrictions": "原简介明确商务联系，渠道未注明不猜微信；备注来意等原限制须遵守，品牌、寄样意愿与报价待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前24.5w粉，简介明确商务入口；具体寄样加小额费用与内容适配待沟通。",
+      "contentEvidence": "当前简介主动征集美食测评挑战并明确商务联系码，按宽松美食方向快筛，不认证实测或具体作品。",
+      "verifiedAt": "2026-10-25T05:40:35.816Z",
+      "rootReviewedAt": "2026-10-25T05:41:54.925Z"
+    },
+    {
+      "name": "胖小虎评测",
+      "profileUrl": "https://live.kuaishou.com/profile/daxiao2020",
+      "kuaishouId": "daxiao2020",
+      "followers": 132000,
+      "fansDisplay": "13.2w",
+      "category": "产品评测/泛生活",
+      "contactValue": "chijige888",
+      "contactChannel": "公开商务联系码（渠道待确认）",
+      "contactQuote": "商务合作：chijige888 （注明来意）",
+      "contactRestrictions": "原简介明确商务联系，渠道未注明不猜微信；备注来意等原限制须遵守，品牌、寄样意愿与报价待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前13.2w粉，简介明确商务入口；具体寄样加小额费用与内容适配待沟通。",
+      "contentEvidence": "当前简介自述评测各种产品并列商务入口，按宽松评测方向快筛，不认证评价客观性或实际体验。",
+      "verifiedAt": "2026-10-25T05:40:43.107Z",
+      "rootReviewedAt": "2026-10-25T05:41:55.628Z"
     }
   ],
-  "qualified": 58,
-  "remaining": 42,
+  "qualified": 62,
+  "remaining": 38,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-25T05:38:55.763Z"
+  "updatedAt": "2026-10-25T05:41:56.239Z"
 }
