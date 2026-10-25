@@ -1,8 +1,8 @@
 {
-  "campaignId": "bd50_100k_200k_20261023_batch3",
-  "target": 100,
-  "batchNumber": 3,
-  "cumulativeTarget": 250,
+  "campaignId": "bd50_100k_200k_20261025_batch4",
+  "target": 50,
+  "batchNumber": 4,
+  "cumulativeTarget": 300,
   "previousCreators": [
     {
       "name": "车圈007",
@@ -2503,84 +2503,7 @@
       "contentEvidence": "当前个人简介分别列商务合作及门将训练入口，并写“用心生活感受温暖”；不认证厂牌成员或训练资质自述。",
       "verifiedAt": "2026-10-23T11:44:34.227Z",
       "rootReviewedAt": "2026-10-23T11:46:24.921Z"
-    }
-  ],
-  "minimumFollowers": 80000,
-  "maximumFollowers": 250000,
-  "followerExceptions": [
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xde45gdsiczm49",
-      "kuaishouId": "3xde45gdsiczm49",
-      "followers": 260000
     },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xn4xbrs4nkpkru",
-      "kuaishouId": "3xn4xbrs4nkpkru",
-      "followers": 264000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/lusen678",
-      "kuaishouId": "lusen678",
-      "followers": 259000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3x5ghxiwvegbd6y",
-      "kuaishouId": "3x5ghxiwvegbd6y",
-      "followers": 268000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xf5v7rhuwbta2y",
-      "kuaishouId": "3xf5v7rhuwbta2y",
-      "followers": 259000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xsda6585evuz9g",
-      "kuaishouId": "3xsda6585evuz9g",
-      "followers": 276000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/YL1030YL",
-      "kuaishouId": "YL1030YL",
-      "followers": 277000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/minyaoxinzi",
-      "kuaishouId": "minyaoxinzi",
-      "followers": 261000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/Benboonn",
-      "kuaishouId": "Benboonn",
-      "followers": 269000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3x6dyx8vek5yfke",
-      "kuaishouId": "3x6dyx8vek5yfke",
-      "followers": 266000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xg47h43nau2ft6",
-      "kuaishouId": "3xg47h43nau2ft6",
-      "followers": 75000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/xiafanXii",
-      "kuaishouId": "xiafanXii",
-      "followers": 267000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/3xcfav2z652mw76",
-      "kuaishouId": "3xcfav2z652mw76",
-      "followers": 264000
-    },
-    {
-      "profileUrl": "https://live.kuaishou.com/profile/tuanzisw",
-      "kuaishouId": "tuanzisw",
-      "followers": 274000
-    }
-  ],
-  "reusePrevious": false,
-  "creators": [
     {
       "name": "俊叔（发型化妆教程）🍃",
       "profileUrl": "https://live.kuaishou.com/profile/3xzy26itykz4xvu",
@@ -4282,9 +4205,38 @@
       "rootReviewedAt": "2026-10-25T06:27:14.805Z"
     }
   ],
-  "qualified": 100,
-  "remaining": 0,
-  "status": "completed",
-  "statusNote": "第三批新增100位已完成，累计250位；均附公开联系方式，弹性粉丝范围及待确认项已注明。",
-  "updatedAt": "2026-10-25T06:27:43.089Z"
+  "minimumFollowers": 80000,
+  "maximumFollowers": 250000,
+  "followerExceptions": [
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xun28vv3kex8x6",
+      "kuaishouId": "3xun28vv3kex8x6",
+      "followers": 254000
+    }
+  ],
+  "reusePrevious": false,
+  "creators": [
+    {
+      "name": "KPL少女CC",
+      "profileUrl": "https://live.kuaishou.com/profile/3xun28vv3kex8x6",
+      "kuaishouId": "3xun28vv3kex8x6",
+      "followers": 254000,
+      "fansDisplay": "25.4w",
+      "category": "游戏资讯/泛娱乐（简介粗筛）",
+      "contactValue": "MonDu3003",
+      "contactChannel": "公开合作联系码（原标V，渠道未注明）",
+      "contactQuote": "合作+V：MonDu3003",
+      "contactRestrictions": "保持原V用语，不猜测具体渠道；合作适配及费用待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前25.4万粉，原简介每天分享消息并有具体合作码，按根单条弹性口径实录；其他品牌寄样适配待确认。",
+      "contentEvidence": "当前完整简介：拜托拜托点点关注 每天带你分享 最新消息🤗 合作+V：MonDu3003。只从昵称与简介粗评资讯方向，不确认性别、年龄或官方身份。",
+      "verifiedAt": "2026-10-25T06:26:33.270Z",
+      "rootReviewedAt": "2026-10-25T06:30:18.296Z"
+    }
+  ],
+  "qualified": 1,
+  "remaining": 49,
+  "status": "collecting",
+  "statusNote": "前三批250位已完成并保留；第四批另找50位，独立去重，继续按弹性粉丝范围、具体公开联系方式与宽松内容方向快筛。",
+  "updatedAt": "2026-10-25T06:30:18.797Z"
 }
