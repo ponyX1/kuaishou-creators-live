@@ -4212,6 +4212,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xun28vv3kex8x6",
       "kuaishouId": "3xun28vv3kex8x6",
       "followers": 254000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/tingting6194",
+      "kuaishouId": "tingting6194",
+      "followers": 77000
     }
   ],
   "reusePrevious": false,
@@ -4232,11 +4237,62 @@
       "contentEvidence": "当前完整简介：拜托拜托点点关注 每天带你分享 最新消息🤗 合作+V：MonDu3003。只从昵称与简介粗评资讯方向，不确认性别、年龄或官方身份。",
       "verifiedAt": "2026-10-25T06:26:33.270Z",
       "rootReviewedAt": "2026-10-25T06:30:18.296Z"
+    },
+    {
+      "name": "小鹿不迷路",
+      "profileUrl": "https://live.kuaishou.com/profile/3xqhvyq537iizt4",
+      "kuaishouId": "3xqhvyq537iizt4",
+      "followers": 113000,
+      "fansDisplay": "11.3w",
+      "category": "美妆/测评（仅简介粗筛）",
+      "contactValue": "inj2080",
+      "contactChannel": "公开工作联系码（原标v，渠道未注明）",
+      "contactQuote": "工作v:inj2080",
+      "contactRestrictions": "原文标工作v，具体联系渠道、合作形式与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前11.3万粉处于优先目标段，美妆测评方向粗匹配；可沟通寄样加小额服务费，实际品类与接样意愿待确认。",
+      "contentEvidence": "当前本人简介自称测评博主并公开工作联系码；未核肤质、原相机或无美颜声明、测评过程与功效，不声称看过具体测试。",
+      "verifiedAt": "2026-10-25T06:30:47.379Z",
+      "rootReviewedAt": "2026-10-25T06:31:43.507Z"
+    },
+    {
+      "name": "小鹿叭叭叭",
+      "profileUrl": "https://live.kuaishou.com/profile/3x3m2c8sfeddtzk",
+      "kuaishouId": "3x3m2c8sfeddtzk",
+      "followers": 113000,
+      "fansDisplay": "11.3w",
+      "category": "内容主题待确认",
+      "contactValue": "zningo8",
+      "contactChannel": "公开合作联系码（渠道未注明）",
+      "contactQuote": "合作:zningo8(备注来意)",
+      "contactRestrictions": "请备注来意；具体联系渠道、内容选题与合作费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前粉丝处于目标范围，简介明确公开商务入口；具体内容方向与寄样合作适配待沟通。",
+      "contentEvidence": "当前普通内容账号简介提供独立合作入口，同时说明素材来源网络及侵权私信删除；具体内容主题待沟通，不认证作品来源、版权或原创。",
+      "verifiedAt": "2026-10-25T06:31:16.918Z",
+      "rootReviewedAt": "2026-10-25T06:31:57.229Z"
+    },
+    {
+      "name": "太太酱的海外生活",
+      "profileUrl": "https://live.kuaishou.com/profile/tingting6194",
+      "kuaishouId": "tingting6194",
+      "followers": 77000,
+      "fansDisplay": "7.7w",
+      "category": "生活日常/好物分享",
+      "contactValue": "tingtingflor",
+      "contactChannel": "公开商务合作码（渠道未注明）",
+      "contactQuote": "商务合作：tingtingflor",
+      "contactRestrictions": "具体联系渠道未注明；合作形式与费用待沟通。",
+      "contactPurposePending": false,
+      "fitReason": "当前7.7万粉按根单条近下沿例外如实收录；本人简介为生活和日式好物分享且明确商务码，品牌寄样适配待沟通。",
+      "contentEvidence": "当前完整简介含孩子们从小在日本生活、一名地道的日式家庭主妇、分享生活分享美好分享日式好物、商务合作tingtingflor、私信和评论都会看。只据简介粗筛，不认证居住地、亲属或真实使用情况。",
+      "verifiedAt": "2026-10-25T06:30:32.339Z",
+      "rootReviewedAt": "2026-10-25T06:32:16.851Z"
     }
   ],
-  "qualified": 1,
-  "remaining": 49,
+  "qualified": 4,
+  "remaining": 46,
   "status": "collecting",
   "statusNote": "前三批250位已完成并保留；第四批另找50位，独立去重，继续按弹性粉丝范围、具体公开联系方式与宽松内容方向快筛。",
-  "updatedAt": "2026-10-25T06:30:18.797Z"
+  "updatedAt": "2026-10-25T06:32:17.344Z"
 }
