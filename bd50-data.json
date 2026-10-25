@@ -2567,6 +2567,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/xiafanXii",
       "kuaishouId": "xiafanXii",
       "followers": 267000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/3xcfav2z652mw76",
+      "kuaishouId": "3xcfav2z652mw76",
+      "followers": 264000
     }
   ],
   "reusePrevious": false,
@@ -4117,11 +4122,45 @@
       "contentEvidence": "当前本人简介为“带你做点好玩的”并列明确合作码，具体内容主题未披露，不从昵称推断科技评测；按用户宽松方向交根裁量。",
       "verifiedAt": "2026-10-25T05:59:02.243Z",
       "rootReviewedAt": "2026-10-25T06:01:58.530Z"
+    },
+    {
+      "name": "野钓🐠༺飞鸟༻",
+      "profileUrl": "https://live.kuaishou.com/profile/3xh53vugt9aar29",
+      "kuaishouId": "3xh53vugt9aar29",
+      "followers": 88000,
+      "fansDisplay": "8.8w",
+      "category": "户外钓鱼/兴趣记录",
+      "contactValue": "feiniao2288145678",
+      "contactChannel": "公开微信（原文v❤；合作用途待确认）",
+      "contactQuote": "v ❤ feiniao2288145678",
+      "contactRestrictions": "当前公开微信，原简介未声明商务用途，按用户允许的公开微信例外保留并标合作用途待确认；不用于粉丝群或私人交友，仅品牌合作意向待确认。",
+      "contactPurposePending": true,
+      "fitReason": "当前8.8w粉，简介公开具体联系入口；具体寄样加小额费用与内容适配待沟通。",
+      "contentEvidence": "当前本人简介写明户外钓鱼、野钓及直播钓鱼，并主动公开v❤联系码；按宽松户外兴趣内容快筛，未认证具体作品或实际钓鱼经历。",
+      "verifiedAt": "2026-10-25T06:05:07.876Z",
+      "rootReviewedAt": "2026-10-25T06:05:41.701Z"
+    },
+    {
+      "name": "仙猪🐽",
+      "profileUrl": "https://live.kuaishou.com/profile/3xcfav2z652mw76",
+      "kuaishouId": "3xcfav2z652mw76",
+      "followers": 264000,
+      "fansDisplay": "26.4w",
+      "category": "美食/生活（仅简介粗筛）",
+      "contactValue": "yyr2213322761",
+      "contactChannel": "公开合作码（渠道未注明）",
+      "contactQuote": "合作:yyr2213322761",
+      "contactRestrictions": "具体联系渠道未注明；寄样、费用、排期与合作适配待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前26.4万粉略超通常上沿，作为粉丝弹性单例申请；简介粗看美食生活方向，具体品牌合作适配待沟通。",
+      "contentEvidence": "当前本人简介为“爱吃又爱练”并单列合作入口；未核具体饮食、健身行为或身份，不声称看过实际作品。",
+      "verifiedAt": "2026-10-25T06:04:18.911Z",
+      "rootReviewedAt": "2026-10-25T06:05:42.578Z"
     }
   ],
-  "qualified": 91,
-  "remaining": 9,
+  "qualified": 93,
+  "remaining": 7,
   "status": "collecting",
   "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-25T06:01:59.274Z"
+  "updatedAt": "2026-10-25T06:05:43.369Z"
 }
