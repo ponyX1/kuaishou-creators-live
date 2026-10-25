@@ -2572,6 +2572,11 @@
       "profileUrl": "https://live.kuaishou.com/profile/3xcfav2z652mw76",
       "kuaishouId": "3xcfav2z652mw76",
       "followers": 264000
+    },
+    {
+      "profileUrl": "https://live.kuaishou.com/profile/tuanzisw",
+      "kuaishouId": "tuanzisw",
+      "followers": 274000
     }
   ],
   "reusePrevious": false,
@@ -4241,11 +4246,45 @@
       "contentEvidence": "当前完整简介：用心陪伴女儿长大 日常随拍/平价穿搭 商务 sjp666666。只按简介粗评内容，不据称谓认证亲属、年龄或真实性。",
       "verifiedAt": "2026-10-25T06:23:26.836Z",
       "rootReviewedAt": "2026-10-25T06:23:51.474Z"
+    },
+    {
+      "name": "我是团子六富兴-10月25日店庆",
+      "profileUrl": "https://live.kuaishou.com/profile/3x5i3xynj2d7dn4",
+      "kuaishouId": "3x5i3xynj2d7dn4",
+      "followers": 168000,
+      "fansDisplay": "16.8w",
+      "category": "家庭日常/电商（仅简介粗筛）",
+      "contactValue": "kuaishoutuanzi888",
+      "contactChannel": "公开商务联系码（渠道未注明）",
+      "contactQuote": "商务kuaishoutuanzi888（备注来意）",
+      "contactRestrictions": "请备注来意；具体渠道、合作形式、商品品类与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前16.8万粉在优先目标段，家庭日常与电商方向粗匹配；可沟通寄样加小额服务费，合作接受度与选品待确认。",
+      "contentEvidence": "当前本人简介称记录家庭故事并走电商路线，同时单列商务入口；不认证亲属关系、店庆、价格或商品质量，不声称看过实际日常作品。",
+      "verifiedAt": "2026-10-25T06:24:59.667Z",
+      "rootReviewedAt": "2026-10-25T06:25:37.612Z"
+    },
+    {
+      "name": "团子游戏解说",
+      "profileUrl": "https://live.kuaishou.com/profile/tuanzisw",
+      "kuaishouId": "tuanzisw",
+      "followers": 274000,
+      "fansDisplay": "27.4w",
+      "category": "游戏解说（仅昵称粗筛）",
+      "contactValue": "xtzisw",
+      "contactChannel": "公开商务联系码（渠道未注明）",
+      "contactQuote": "商务: xtzisw(非本人）",
+      "contactRestrictions": "商务入口注明非本人；具体联系渠道、合作形式与费用待确认。",
+      "contactPurposePending": false,
+      "fitReason": "当前27.4万粉，按粉丝弹性单例收录并如实标注；游戏泛娱乐方向，具体品牌合作与寄样适配待沟通。",
+      "contentEvidence": "当前账号昵称为游戏解说，简介提供独立商务入口并有侵权私信删除说明；未核实际游戏作品或版权、原创身份。",
+      "verifiedAt": "2026-10-25T06:25:27.429Z",
+      "rootReviewedAt": "2026-10-25T06:27:14.805Z"
     }
   ],
-  "qualified": 98,
-  "remaining": 2,
-  "status": "collecting",
-  "statusNote": "第三批新增100位正在寻找，前150位保留且不抵本轮目标；继续按弹性粉丝范围、具体公开联系方式和宽松内容方向快筛。",
-  "updatedAt": "2026-10-25T06:23:52.171Z"
+  "qualified": 100,
+  "remaining": 0,
+  "status": "completed",
+  "statusNote": "第三批新增100位已完成，累计250位；均附公开联系方式，弹性粉丝范围及待确认项已注明。",
+  "updatedAt": "2026-10-25T06:27:43.089Z"
 }
