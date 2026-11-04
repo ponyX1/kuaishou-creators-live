@@ -4752,11 +4752,28 @@
       "contentEvidence": "主页简介描述与家人记录日常生活。",
       "verifiedAt": "2026-11-04T13:39:48.461Z",
       "rootReviewedAt": "2026-11-04T13:40:29.335Z"
+    },
+    {
+      "name": "小可的小家",
+      "profileUrl": "https://live.kuaishou.com/profile/3xr8hr9v46wwhtq",
+      "kuaishouId": "3xr8hr9v46wwhtq",
+      "followers": 89000,
+      "fansDisplay": "8.9w",
+      "category": "宅家生活 / 家居好物",
+      "contactValue": "724385980@qq.com",
+      "contactChannel": "公开联系邮箱（合作用途待确认）",
+      "contactQuote": "724385980@qq.com",
+      "contactRestrictions": "按主页公开原文记录。合作适配、接样意愿和费用待沟通。",
+      "contactPurposePending": true,
+      "fitReason": "家居好物分享与日常清洁、洗衣收纳场景贴近，可优先沟通寄样实拍。",
+      "contentEvidence": "主页简介标注宅家Vlog、家居好物分享，邮箱后注明“备注品牌”。",
+      "verifiedAt": "2026-11-04T13:47:39.925Z",
+      "rootReviewedAt": "2026-11-04T13:48:33.766Z"
     }
   ],
-  "qualified": 31,
-  "remaining": 19,
+  "qualified": 32,
+  "remaining": 18,
   "status": "collecting",
   "statusNote": "第四批继续核验，已上线名单可使用云端跟进。仅收录有具体公开联系方式的达人。",
-  "updatedAt": "2026-11-04T13:41:01.366Z"
+  "updatedAt": "2026-11-04T13:53:35.306Z"
 }
